@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What were the three Apollo 11 crew members and their roles?",
+    "page": 12,
+    "start": 129,
+    "end": 270,
+    "source_passage": "The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot ."
+  },
+  {
+    "id": 2,
+    "question": "Which lunar sea did Apollo 11 land in?",
+    "page": 12,
+    "start": 1543,
+    "end": 1611,
+    "source_passage": "The spacecra ft landed in the Sea of Tran quillit y at 102: 45:40 ."
+  },
+  {
+    "id": 3,
+    "question": "Why was the ocean landing point moved by 215 miles?",
+    "page": 13,
+    "start": 1180,
+    "end": 1265,
+    "source_passage": "In\u00ad clement wea ther nec essi tated moving the landing poin t 215 mil es downrange ."
+  },
+  {
+    "id": 4,
+    "question": "Which ship recovered the Apollo 11 astronauts?",
+    "page": 13,
+    "start": 1531,
+    "end": 1846,
+    "source_passage": "After landin g, the crew donned bio logi cal iso la tion garments . They were then retrieved by heli copter and taken to the prim ary recovery sh ip , USS Hornet . The crew and lunar materi al samples were placed in the Mobil e Quarantine Facilit y for tr anspor t to the Lunar Receiving Labora\u00ad tory in Housto n ."
+  },
+  {
+    "id": 5,
+    "question": "What is the reference time used for elapsed times in this report?",
+    "page": 14,
+    "start": 1127,
+    "end": 1321,
+    "source_passage": "In this report, all actual times are elapse d time from range .zero, est ablished as the integral sec ond before lif t-off. Range zero for this \u00b7miss ion was 13:32 :00 G. m.t ., July 16 , 1969."
+  },
+  {
+    "id": 6,
+    "question": "Why did the astronauts explore the surface before their planned sleep?",
+    "page": 16,
+    "start": 436,
+    "end": 722,
+    "source_passage": "A crew rest period was planned to precede the extravehicular activity to explore the lunar surface. However, the crew elected to perform the extravehicular portion of the mission prior to the sleep period because they were not overly tired and were adjusting easily to the l/6 gravity."
+  },
+  {
+    "id": 7,
+    "question": "When were the crew and spacecraft released from quarantine?",
+    "page": 17,
+    "start": 213,
+    "end": 350,
+    "source_passage": "The crew and spacecraft were released from quarantine on August 10 , 1969 , after no evidence of abnormal medical reactions was observed."
+  },
+  {
+    "id": 8,
+    "question": "What prevented the Commander from sleeping on the lunar surface?",
+    "page": 45,
+    "start": 31,
+    "end": 1091,
+    "source_passage": "The rest period was almost a complete loss . The helmet and gloves were worn to reli eve any subc oncio us anxi ety about a lo ss of cabin pre s\u00ad sure and prese nted no problem. But noi se, lighting , and a lower-than\u00ad desi red temperature were annoying . It was uncomfortably cool in the suits , even with water-flow dis connected. Oxygen flow was finally cut off , and the helmets were removed, but the noise from the glycol pumps was then loud enough to inter rupt sleep . The window shades did not completel y block out light , and the cabin was illuminated by a combi natio n of light through the shades , warning lights , and displa y lightin g . The Commander was resting on the as cent engine cover and was bothere d by the light enter\u00ad ing through the telesco pe . The Lunar Module Pil ot es timated he slept fit\u00ad fully for perhaps 2 hours and the Commander did not slee p at all , even though body positio ning was not a problem. Becaus e of the re duce d gravity , the posit ions on the floor and on the engine cover were both quite comfort\u00ad able ."
+  },
+  {
+    "id": 9,
+    "question": "Why did manual descent consume more reaction-control propellant than automatic descent?",
+    "page": 55,
+    "start": 1482,
+    "end": 1803,
+    "source_passage": "The reaction control propellant consumption while in the manual de sc ent control mode was 51 pounds , approx\u00ad imately 1-1/2 times greater than that for the automatic mode . This in\u00ad crease in usage rate is attributed to the requirement for greater attitude and translation maneuvering in the final sta ges of desce nt ."
+  },
+  {
+    "id": 10,
+    "question": "How long did the lunar television transmission operate continuously?",
+    "page": 160,
+    "start": 211,
+    "end": 529,
+    "source_passage": "Telev isio n transmi ssio n was good during the entire extravehic ular activity , both from the desc ent st age stowage tmit and from the tripod on the lunar surfa ce . Sig nal-to- noise rati os of the television link were very good . The tel evision was turned off after 5 hours 4 minutes of contin uous operatio n ."
+  },
+  {
+    "id": 11,
+    "question": "What was wrong with the lunar module onboard voice recorder playback?",
+    "page": 160,
+    "start": 961,
+    "end": 1105,
+    "source_passage": "When the tape was played, no timing sig nal was evident and voice was weak and unreadable , with a 400-hertz hum and wideband noise background."
+  },
+  {
+    "id": 12,
+    "question": "Why was actual cabin oxygen use below the preflight prediction?",
+    "page": 190,
+    "start": 781,
+    "end": 1021,
+    "source_passage": "The actual oxygen us age was lower than the preflig ht predictio ns because oxygen leak rate from the cabin was less than the specif ic ation value . The actual rate was 0.05 lb/hr , as compared with the speci fi cation rate of 0.2 lb/hr ."
+  },
+  {
+    "id": 13,
+    "question": "What frequency dominated seismic signals made by astronaut activity?",
+    "page": 215,
+    "start": 1561,
+    "end": 1774,
+    "source_passage": "The pre dominant frequency of all of thes e signals is 7.2 to 7.3 hertz. The spe ctrum of the sig nal produced by the Co mmander on the lunar module ladder , shown in figure ll-23 , contains this prominent peak ."
+  },
+  {
+    "id": 14,
+    "question": "What was the likely cause of the service propulsion nitrogen leak?",
+    "page": 280,
+    "start": 1490,
+    "end": 1682,
+    "source_passage": "The most likely cause of the problem was .c ontaminatio n in one of the components downstre am of the inj ector pr e-valve , whic h iso lates the nitro\u00ad gen supply during nonfi ring periods ."
+  },
+  {
+    "id": 15,
+    "question": "How much did nitrogen pressure fall during the lunar orbit insertion firing?",
+    "page": 280,
+    "start": 228,
+    "end": 469,
+    "source_passage": "During the lunar orbit insertio n firing , the gas eous nitrogen in the redundant se rvice propuls ion engine actuatio n syste m decayed from 2307 to 1883 psia ( se e fig. 16-1) , indi catin g a leak downstream of the inj ecto r pre -valve."
+  }
+]

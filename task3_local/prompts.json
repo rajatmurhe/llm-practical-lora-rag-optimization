@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "prompt": "What is the capital of France? Answer with only the city name.",
+    "expected": "Paris",
+    "rule": "case-insensitive substring paris"
+  },
+  {
+    "id": 2,
+    "prompt": "What is 17 + 25? Answer with only the number.",
+    "expected": "42",
+    "rule": "exact 42 after stripping whitespace and final period"
+  },
+  {
+    "id": 3,
+    "prompt": "Return only valid JSON with name Ada and age 36.",
+    "expected": {
+      "name": "Ada",
+      "age": 36
+    },
+    "rule": "JSON parses and equals expected object"
+  },
+  {
+    "id": 4,
+    "prompt": "Reverse the letters in planet. Reply with only the reversed word.",
+    "expected": "tenalp",
+    "rule": "exact word, case insensitive"
+  },
+  {
+    "id": 5,
+    "prompt": "Extract the email address: Please contact Mira at mira@example.com tomorrow. Reply with only the email.",
+    "expected": "mira@example.com",
+    "rule": "exact email after whitespace stripping"
+  },
+  {
+    "id": 6,
+    "prompt": "Classify the sentiment as positive or negative. Text: I love this wonderful product. Reply with one word.",
+    "expected": "positive",
+    "rule": "exact label, case insensitive"
+  },
+  {
+    "id": 7,
+    "prompt": "Translate the English word cat into French. Reply with only the French word.",
+    "expected": "chat",
+    "rule": "exact word, case insensitive"
+  },
+  {
+    "id": 8,
+    "prompt": "Write the word blue exactly three times, separated by spaces. Nothing else.",
+    "expected": "blue blue blue",
+    "rule": "exact string, case insensitive"
+  },
+  {
+    "id": 9,
+    "prompt": "Which planet is known as the Red Planet? Reply with only its name.",
+    "expected": "Mars",
+    "rule": "exact word, case insensitive"
+  },
+  {
+    "id": 10,
+    "prompt": "Summarize in one sentence: A storm closed the bridge. Buses used a longer route. Commuters arrived late.",
+    "expected": "storm closes bridge, buses reroute, commuters late",
+    "rule": "one sentence contains storm, bridge, bus, and late/delay"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "question": "Which ship recovered the Apollo 11 astronauts?",
+  "sources": [
+    {
+      "id": 3,
+      "page": 3,
+      "start": 0,
+      "end": 250,
+      "text": "/ MSC-00171 APOLLO 11 MISSION REPORT PREPARED BY Missio n Evaluation Team APPROVED BY c\ufffd \ufffd L.c.r--George M. Low Manager , Apollo Spacecra ft Program NATIONAL AERONAUTICS AND SPACE ADMINISTR ATION MANNED SPACECRAFT CENTER HOUSTON , TEXAS November 1969"
+    },
+    {
+      "id": 15,
+      "page": 12,
+      "start": 0,
+      "end": 914,
+      "text": "1-1 1.0 SUMMARY The purpose of the Apollo 11 missio n was to land men on the lunar surface and to return them safely to ea rth . The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot . The space vehicle was launched from Kennedy Space Center , Flori da , at 8:3 2: 00 a. m. , e.s. t. , July 16 , 1969 . The acti vities during earth orbit check out , tr ansl unar injec tion , tr anspos itio n and docking , space\u00ad craft ejec tio n, and transl unar coast were si mi lar to those of Apollo 10 . Only one mi dcour se corr ectio n , performed at about 27 hours elapsed ti me , was required during tr ans lunar coast . The spacecra ft was inser ted into lunar orbit at about 76 hours , and the circ ulari zatio n maneuver was performed two revolutions later . Init ia l che ckout of lunar module systems was satis factor y , and after"
+    },
+    {
+      "id": 21,
+      "page": 13,
+      "start": 1348,
+      "end": 2102,
+      "text": "n at 19 5-l/4 hours . The landing coordina tes , as de termin ed from the onboard computer, were 13 degrees 19 minutes north lati tu de and 169 de\u00ad grees 09 minutes west longi tude . After landin g, the crew donned bio logi cal iso la tion garments . They were then retrieved by heli copter and taken to the prim ary recovery sh ip , USS Hornet . The crew and lunar materi al samples were placed in the Mobil e Quarantine Facilit y for tr anspor t to the Lunar Receiving Labora\u00ad tory in Housto n . The command module was tak en aboard the Hornet about 3 hours after landing . With the complet ion of Apollo 11 , the nati onal objec ti ve of landing men on the moon and returning them sa fely to earth be fore the end of the decade had been accom plished."
+    },
+    {
+      "id": 0,
+      "page": 1,
+      "start": 0,
+      "end": 152,
+      "text": "I \\ \\ :Jj =-\u00b7. MSC-00171 NATIONAL AERONAUTICS AND SPACE ADMINISTRATION APOLLO 11 MI SOS[ON REPO RT MANNED SPACECRAFT CENTER HOUSTON,TEXAS NO VEMBER 1969"
+    },
+    {
+      "id": 831,
+      "page": 358,
+      "start": 0,
+      "end": 202,
+      "text": "13. NASA He adquarter s : Missio n Requirements, G-type Missio n (Lunar Landing ). SPD 9-R-0 39 . April 17 , 1969. 14 . Manned Spacec raft Center : Apollo 9 Mis sio n Report. MSC-PA-R- 69-2 . May 1969 ."
+    }
+  ],
+  "answer": "Question: Which ship recovered the Apollo 11 astronauts?\n\nAnswer: The Apollo 11 astronauts were recovered by the USS Hornet, which was the ship that recovered the astronauts. The Apollo 11 astronauts were recovered by the USS Hornet on April 17, 1969."
+}

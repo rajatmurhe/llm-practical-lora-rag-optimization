@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Do not reset my password; reverse the extra charge.",
+    "label": "billing",
+    "type": "compositional",
+    "prediction": "account",
+    "correct": false,
+    "reason": "The negated password-reset phrase appears to dominate the actual charge-reversal request. Training has no negation examples, so keyword association is a plausible explanation."
+  },
+  {
+    "text": "The software is fine; the physical box is missing. Find it.",
+    "label": "delivery",
+    "type": "compositional",
+    "prediction": "technical",
+    "correct": false,
+    "reason": "The software cue pulls toward technical despite being described as fine. Physical box is an unfamiliar paraphrase of parcel, adding vocabulary shift to the competing intent cue."
+  },
+  {
+    "text": "I was billed for a replacement password. I need my money back.",
+    "label": "billing",
+    "type": "compositional",
+    "prediction": "account",
+    "correct": false,
+    "reason": "The password entity appears to outweigh the requested financial remedy. The model must separate what was purchased from the action requested, a composition absent from training."
+  },
+  {
+    "text": "The delivery date widget freezes. Debug the widget.",
+    "label": "technical",
+    "type": "compositional",
+    "prediction": "delivery",
+    "correct": false,
+    "reason": "Delivery describes the widget, while debugging is the requested action. Single-intent templates do not teach this modifier-versus-action distinction."
+  }
+]

@@ -1,0 +1,865 @@
+{
+  "chunk_tokens": 256,
+  "overlap_tokens": 64,
+  "chunks": 834,
+  "recall_at_5": 0.6666666666666666,
+  "source_page_recall_at_5": 0.7333333333333333,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What were the three Apollo 11 crew members and their roles?",
+      "page": 12,
+      "start": 129,
+      "end": 270,
+      "source_passage": "The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 44,
+          "page": 29,
+          "start": 0,
+          "end": 110,
+          "text": "Commander Neil A. Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin E. Aldrin, Jr.",
+          "score": 0.5597102642059326,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 3,
+          "page": 3,
+          "start": 0,
+          "end": 250,
+          "text": "/ MSC-00171 APOLLO 11 MISSION REPORT PREPARED BY Missio n Evaluation Team APPROVED BY c\ufffd \ufffd L.c.r--George M. Low Manager , Apollo Spacecra ft Program NATIONAL AERONAUTICS AND SPACE ADMINISTR ATION MANNED SPACECRAFT CENTER HOUSTON , TEXAS November 1969",
+          "score": 0.5531708002090454,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 15,
+          "page": 12,
+          "start": 0,
+          "end": 914,
+          "text": "1-1 1.0 SUMMARY The purpose of the Apollo 11 missio n was to land men on the lunar surface and to return them safely to ea rth . The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot . The space vehicle was launched from Kennedy Space Center , Flori da , at 8:3 2: 00 a. m. , e.s. t. , July 16 , 1969 . The acti vities during earth orbit check out , tr ansl unar injec tion , tr anspos itio n and docking , space\u00ad craft ejec tio n, and transl unar coast were si mi lar to those of Apollo 10 . Only one mi dcour se corr ectio n , performed at about 27 hours elapsed ti me , was required during tr ans lunar coast . The spacecra ft was inser ted into lunar orbit at about 76 hours , and the circ ulari zatio n maneuver was performed two revolutions later . Init ia l che ckout of lunar module systems was satis factor y , and after",
+          "score": 0.5399092435836792,
+          "gold_overlap_chars": 141
+        },
+        {
+          "id": 831,
+          "page": 358,
+          "start": 0,
+          "end": 202,
+          "text": "13. NASA He adquarter s : Missio n Requirements, G-type Missio n (Lunar Landing ). SPD 9-R-0 39 . April 17 , 1969. 14 . Manned Spacec raft Center : Apollo 9 Mis sio n Report. MSC-PA-R- 69-2 . May 1969 .",
+          "score": 0.4799306392669678,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 58,
+          "page": 33,
+          "start": 1853,
+          "end": 2250,
+          "text": "items had been unstowed and prepositioned the evening be\u00ad fore. Following a hearty breakfast, the Lunar Module Pilot transferred into the lunar module to accomplish initial activation before returning to the command module for suiting. This staggered suiting sequence served to expedite the final checkout and resulted in only two crew\u00ad members in the command module during each suiting operation.",
+          "score": 0.46754544973373413,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which lunar sea did Apollo 11 land in?",
+      "page": 12,
+      "start": 1543,
+      "end": 1611,
+      "source_passage": "The spacecra ft landed in the Sea of Tran quillit y at 102: 45:40 .",
+      "hit": false,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 15,
+          "page": 12,
+          "start": 0,
+          "end": 914,
+          "text": "1-1 1.0 SUMMARY The purpose of the Apollo 11 missio n was to land men on the lunar surface and to return them safely to ea rth . The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot . The space vehicle was launched from Kennedy Space Center , Flori da , at 8:3 2: 00 a. m. , e.s. t. , July 16 , 1969 . The acti vities during earth orbit check out , tr ansl unar injec tion , tr anspos itio n and docking , space\u00ad craft ejec tio n, and transl unar coast were si mi lar to those of Apollo 10 . Only one mi dcour se corr ectio n , performed at about 27 hours elapsed ti me , was required during tr ans lunar coast . The spacecra ft was inser ted into lunar orbit at about 76 hours , and the circ ulari zatio n maneuver was performed two revolutions later . Init ia l che ckout of lunar module systems was satis factor y , and after",
+          "score": 0.5786799788475037,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 459,
+          "page": 200,
+          "start": 0,
+          "end": 949,
+          "text": "ll-3 11 .1 LUNAR GEOLOGY EXPERIMENT ll . 1.1 Summary The Apollo 11 spacecra ft lande d in the so uthwest ern part of Mare Tranquillitatis at 0 degree 41 minutes 15 se conds north lati tude and 23 degrees 26 minutes east longitu de (f ig. 11-1 ) , approximately 20 kilo\u00ad meters southwes t of the crater Sabin e D. This part of Mare Tranqui lli tatis is cros sed by relati vely faint , but distinct , nort h-northwest tr ending rays (brig ht , whiti sh lin es ) ass oc iated with the crater Theophilus , which lies 320 kilometers to the southeas t (r ef. 4) . The landing si te is ap\u00ad proximat ely 25 kilometers southeast of Surveyor V and 68 kilometers so uth\u00ad west of the impact crater formed by Ranger VIII . A fairly prominent north-nor theast trending ray lies 15 kilometers wes t of the landing si te . This ray may be related to Alfraganu s , 160 kilometers to the southwes t, or to Tycho , about 1500 kilometers to the so uthwes t. The landing",
+          "score": 0.5409097671508789,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 828,
+          "page": 357,
+          "start": 0,
+          "end": 847,
+          "text": "REFERENCES 1. Marshall Space Flight Cente r: Saturn V Launch Vehicle Fli t Eval\u00ad uatio n Report AS-506 Apollo ll Missio n publica tio n number and date not assigned) . 2. Boeing Company , Se attle , Washing ton : Lunar Gravitati onal Model Anal\u00ad ysis for Apollo . December 5, 1968. 3. Manned Spacecra ft Center : Apollo 10 Missio n Report . Sectio n 15 .0 Anomaly S\ufffd. MSC-001 26 . August 1969 . 4. U.S . Geologi cal Survey : the Moon ; Geologic Atlas (LAC 78) . 1968 Geologic Map of Theophil us Quadrangle of of the Moon , Sca le 1: 1 ,000 ,000 . I-5 46 .5 . Califo rnia Ins tit ute of Technology , Jet Propuls ion Laboratory : Ranger VII , Ft. II , Experimenters Analysis and Interpretatio ns . 32-700 . 1965. 6. Journal Geophysics : Color Dif ferences on the Lunar Surface by T. B. McCord. V.7 4 , n. l2 , pp 3131-3142 . 1969 . 7. Scie nce : Mas",
+          "score": 0.5263770818710327,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 645,
+          "page": 276,
+          "start": 1438,
+          "end": 2426,
+          "text": "vatio ns were ever di \u00ad rected to the area where the lunar module was actually lo cated. Toward the end of the lunar surface stay , the locatio n of the lande d lunar module was determined from the lunar module rende zvous radar track\u00ad ing data (c onfirmed post flight using desc ent pho togra phic data) . However , the Command Module Pilot 's activ iti es did not permit his attempting another tr acking pass after the lunar module loc atio n had be en determined accu\u00ad rate ly . Thi s objec tive will be repeated for the Apollo 12 missio n . 14 .2 LUNAR FIELD GEOLOGY For the Apollo 11 missio n, the documented sample colle ction (S -059 , Lunar Field Geology ) was assigned the lowest prior ity of any of the sc ientif ic objec tiv es and was planne d as one of the last activities dur\u00ad ing the extra vehi cular activity period. Two core tube sample s were col\u00ad lected as planne d, and about 15 pounds of additi onal lunar samp les were obtained as part of this objec tiv e . However,",
+          "score": 0.5067517161369324,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 279,
+          "page": 121,
+          "start": 0,
+          "end": 542,
+          "text": "7-13 TABLE 7-VIII .- LATITUDE TARGETING SUMMARY Landing si te latitude on the landing revolutio ns , deg Apollo 10 Apollo ll Desi red 0. 691 0. 691 Actual 0.3 54 0.7 69 Error 0. 337 so uth 0. 07 8 north TABLE 7-I X.- CIRCULARIZATION ALTITUDE TARGETING Orbit altitude , miles Apollo 10 Apollo ll At cir culari zatio n Desi red 60 .0 by 60 .0 53 -7 by 65 .7 Actual 61 .0 by 62 .8 54.5 by 66.1 Error 1.0 by 2.8 0.8 by 0.4 At. rendez vous Des ired 60 .0 by 60 .0 6o .o by 6o .o Actual 58. 3 by 65.9 56 .5 by 62 .6 Error -1 .9 by 5.9 -3 .5 by 2. 6",
+          "score": 0.4983718991279602,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Why was the ocean landing point moved by 215 miles?",
+      "page": 13,
+      "start": 1180,
+      "end": 1265,
+      "source_passage": "In\u00ad clement wea ther nec essi tated moving the landing poin t 215 mil es downrange .",
+      "hit": false,
+      "page_hit": false,
+      "retrieved": [
+        {
+          "id": 640,
+          "page": 274,
+          "start": 0,
+          "end": 352,
+          "text": "13-6 NASA-S-69- 3774 13\u00b0 45' -\"' 13\u00b030 ' ;;: 0 2 ...... Swim 1 13\u00b015 ' 169\u00b015 ' \ufffd Swim 2 \ufffd Relay 1 Photo 1 \"\"llliJP ..\u00a5 Air Boss 2 Recovery 1 \ufffd ,...., I .... Target point e Onboard computer landing point I I e Landing point (recovery forces) 169\u00b000 ' West longitude USS Hornet Fig ure 13-1 .- Landing and recovery data . \"' \ufffd \"A ir Boss 1 .,. 168\u00b0 45 '",
+          "score": 0.5079879760742188,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 108,
+          "page": 49,
+          "start": 0,
+          "end": 1131,
+          "text": "4-20 Only one midcourse correction , a reactio n control system firing of 4.8 ft/se c, was required during transearth coast . In general , the trans\u00ad earth coast period was characteri zed by a general relaxation on the part of the crew , with plenty of time available to sample the excel lent variety of food packets and to take photographs of the shrinking moon and the growing earth . 4.1 9 ENTRY Beca use of the presence of thunderstor ms in the primary rec overy area (1 285 miles downrange from the entry interface of 400 000 feet ), the target ed landing point was moved to a range of 1500 miles from entry interfa ce . This change required the use of computer program P65 (s kip\u00ad up control routine ) in the computer , in addition to those programs used for the planned shorter range entry . This change caused the crew some apprehens ion , since such en tries had rarely been pract ic ed in preflig ht simulati ons . However, during the entry , these parameters remained within accep table limits . The entry was guided automatica lly and was nominal in all respec ts . The first accel eration pulse reached approximately 6",
+          "score": 0.4503445625305176,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 259,
+          "page": 115,
+          "start": 2130,
+          "end": 2777,
+          "text": ", or approx\u00ad imately 4440 and 21 990 feet , respect ively . The miss in lati tude was caus ed by neglect ing the two-revolution orbit plane propagation error , and the miss in longitude resul ted from the traj ectory perturba tio ns during revolutions 11 through 13 . The coordinates used for ascent targeting were the best pre flight es timate of landing site radius and the onboard-guidance es timate of lat\u00ad itude and longitude at tou chdown (c orre cted for initia ]_ state vector errors from ground tracking ). The es timated errors in targetin g coordinates were a radius 1500 feet less than desi red and a longitud e 4400 feet to the wes t.",
+          "score": 0.4378429353237152,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 130,
+          "page": 55,
+          "start": 0,
+          "end": 1096,
+          "text": "5-6 data and known surface features . The coordinates of the landing point , as obtained from the various real-time and post flight sources , are shown in table 5-IV . The actual landing point is 0 degree 41 minutes 15 sec\u00ad onds north latitude and 23 degrees 26 minutes east longitude , as compared with the targeted landing point of 0 degree 43 minutes 53 seco nds north latitu de and 23 degrees 38 minutes 51 se conds east longitude as shown in figure 5-10. Figure 5-10 is the ba sic reference map for locatio n of the landing point in this report . As noted , the landing point dispersio n was caused primarily by errors in the onboard state vector prior to powered desce nt initia tion . Fi gure 5-11 is a time hist ory of pertinent vehic le control parameters during the entire desc ent phase . Evidence of fuel slosh was detected in the atti tude-rate information following the yaw maneuver. The sl osh ef\u00ad fect increa sed to the point where reactio n control thruster firin gs were required to damp the rate prior to throttle recovery . The dynamic be\u00ad havior at this point and through the",
+          "score": 0.3950827121734619,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 29,
+          "page": 16,
+          "start": 1931,
+          "end": 2958,
+          "text": "lunar surface occurred on time at 124:22:00.8. The spacecraft was inserted into a 48.0- by 9.4-mile orbit from which a ren\u00ad dezvous sequence similar to that for Apollo 10 was. successfully performed. Approximately 4-1/2 hours after lunar module ascent, the command module performed a docking maneuver, and the two spacecraft were docked. The ascent stage was jettisoned in lunar orbit and the command and service modules were prepared for transearth injection at 135-l/2 hours. The activities during transearth coast were similar to those during translunar flight. The service module was separated from the command module 15 minutes before reaching the entry interface at 400 000 feet altitude. After an automatic entry sequence and landing system deploy\u00ad ment, the command module landed in the Pacific Ocean at 195-1/2 hours. The postlanding procedures involving the primary recovery ship, USS Hornet, included precautions to avoid back-contamination by any lunar organisms, and the crew and samples were placed in quarantine.",
+          "score": 0.39197784662246704,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which ship recovered the Apollo 11 astronauts?",
+      "page": 13,
+      "start": 1531,
+      "end": 1846,
+      "source_passage": "After landin g, the crew donned bio logi cal iso la tion garments . They were then retrieved by heli copter and taken to the prim ary recovery sh ip , USS Hornet . The crew and lunar materi al samples were placed in the Mobil e Quarantine Facilit y for tr anspor t to the Lunar Receiving Labora\u00ad tory in Housto n .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 3,
+          "page": 3,
+          "start": 0,
+          "end": 250,
+          "text": "/ MSC-00171 APOLLO 11 MISSION REPORT PREPARED BY Missio n Evaluation Team APPROVED BY c\ufffd \ufffd L.c.r--George M. Low Manager , Apollo Spacecra ft Program NATIONAL AERONAUTICS AND SPACE ADMINISTR ATION MANNED SPACECRAFT CENTER HOUSTON , TEXAS November 1969",
+          "score": 0.5903967022895813,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 15,
+          "page": 12,
+          "start": 0,
+          "end": 914,
+          "text": "1-1 1.0 SUMMARY The purpose of the Apollo 11 missio n was to land men on the lunar surface and to return them safely to ea rth . The crew were Neil A. Arm\u00ad stro ng, Commander ; Mi chael Collins , Command Module Pi lot ; and Edwin E. Aldri n, Jr. , Lunar Module Pi lot . The space vehicle was launched from Kennedy Space Center , Flori da , at 8:3 2: 00 a. m. , e.s. t. , July 16 , 1969 . The acti vities during earth orbit check out , tr ansl unar injec tion , tr anspos itio n and docking , space\u00ad craft ejec tio n, and transl unar coast were si mi lar to those of Apollo 10 . Only one mi dcour se corr ectio n , performed at about 27 hours elapsed ti me , was required during tr ans lunar coast . The spacecra ft was inser ted into lunar orbit at about 76 hours , and the circ ulari zatio n maneuver was performed two revolutions later . Init ia l che ckout of lunar module systems was satis factor y , and after",
+          "score": 0.519665002822876,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 21,
+          "page": 13,
+          "start": 1348,
+          "end": 2102,
+          "text": "n at 19 5-l/4 hours . The landing coordina tes , as de termin ed from the onboard computer, were 13 degrees 19 minutes north lati tu de and 169 de\u00ad grees 09 minutes west longi tude . After landin g, the crew donned bio logi cal iso la tion garments . They were then retrieved by heli copter and taken to the prim ary recovery sh ip , USS Hornet . The crew and lunar materi al samples were placed in the Mobil e Quarantine Facilit y for tr anspor t to the Lunar Receiving Labora\u00ad tory in Housto n . The command module was tak en aboard the Hornet about 3 hours after landing . With the complet ion of Apollo 11 , the nati onal objec ti ve of landing men on the moon and returning them sa fely to earth be fore the end of the decade had been accom plished.",
+          "score": 0.5085212588310242,
+          "gold_overlap_chars": 315
+        },
+        {
+          "id": 0,
+          "page": 1,
+          "start": 0,
+          "end": 152,
+          "text": "I \\ \\ :Jj =-\u00b7. MSC-00171 NATIONAL AERONAUTICS AND SPACE ADMINISTRATION APOLLO 11 MI SOS[ON REPO RT MANNED SPACECRAFT CENTER HOUSTON,TEXAS NO VEMBER 1969",
+          "score": 0.4995151162147522,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 831,
+          "page": 358,
+          "start": 0,
+          "end": 202,
+          "text": "13. NASA He adquarter s : Missio n Requirements, G-type Missio n (Lunar Landing ). SPD 9-R-0 39 . April 17 , 1969. 14 . Manned Spacec raft Center : Apollo 9 Mis sio n Report. MSC-PA-R- 69-2 . May 1969 .",
+          "score": 0.47158414125442505,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the reference time used for elapsed times in this report?",
+      "page": 14,
+      "start": 1127,
+      "end": 1321,
+      "source_passage": "In this report, all actual times are elapse d time from range .zero, est ablished as the integral sec ond before lif t-off. Range zero for this \u00b7miss ion was 13:32 :00 G. m.t ., July 16 , 1969.",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 615,
+          "page": 264,
+          "start": 0,
+          "end": 488,
+          "text": "' , TABLE 12 -I .- ESTIMATED SLEEP DURATIONS Es timated amount of sl eep, hr :min Time of Telemetry Crew report crew report , hr :min Command Module Lunar Module Command Module Lunar Module Commander Pilot Pilot Commander Pilot Pilot 23 :0 0 10 :25 10 :1 0 8 :3 0 7: 00 7: 00 5: 30 48 :1 5 9: 40 10 :1 0 9: 15 8 :00 9: 00 8 :00 71 :2 4 9: 35 ( a ) 9: 20 7: 30 7: 30 6 :3 0 95 :2 5 6 :3 0 6 :3 0 5: 30 6 :3 0 6 :3 0 5:3 0 Totals 36 :1 0 -- 32 :35 29 :00 30 :00 25 :3 0 aNo data available .",
+          "score": 0.4748011529445648,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 327,
+          "page": 144,
+          "start": 0,
+          "end": 326,
+          "text": "8-15 TABLE 8. 6-V.- LANDMARK TRACKING Time , Landmark Number of Opti cs mode hr :min :s ec identif ic ation marks 82 :4 3 :00 Al (a ltitude 5 Sext ant , manual - res olved landmark ) 98 :49 :0 0 130 5 Sextant , manual - res olved 104 :3 9: 00 130 5 Sextant , manual - resol ved 122 :2 4 :0 0 130 5 Sextant , manual - res olved",
+          "score": 0.44276517629623413,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 23,
+          "page": 14,
+          "start": 772,
+          "end": 1381,
+          "text": "not pos sibl e within the time allowed for preparation of this report . Therefore, report supple\u00ad ments will be published for the guidance and control sys tem, propulsi on, the bio medica l evaluation, the lunar surface photography, the lunar sample analysis, and the traj ectory analysis . Other supplements will be publi sh-\u00ad ed as need is identif ied. In this report, all actual times are elapse d time from range .zero, est ablished as the integral sec ond before lif t-off. Range zero for this \u00b7miss ion was 13:32 :00 G. m.t ., July 16 , 1969. All references to mile age dis tance are in nauti cal miles.",
+          "score": 0.4264652729034424,
+          "gold_overlap_chars": 194
+        },
+        {
+          "id": 34,
+          "page": 19,
+          "start": 0,
+          "end": 400,
+          "text": "3-5 TABLE 3-I. - SEQUENCE OF EVENTS - Concluded Event Time, hr:min: sec Docking 128:03:00 Asc ent stage je ttiso n 130:09:31. 2 Separation maneuver (f rom ascen t stage ) 130:30:01* Trans earth inj ecti on maneuver 135:23:42. 3* Seco nd midcourse correctio n 150:29:57. 4* Command module/ser vice module separatio n 194:49:12.7 Entry interf ace 195:03:0 5. 7 Landing 195:18:35 *Engine ignitio n time.",
+          "score": 0.409409761428833,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 37,
+          "page": 22,
+          "start": 0,
+          "end": 532,
+          "text": "3-8 NASA-S-69-3702 Day Ddl' Ground elapsed time i' 52 MSFN Night Ground el apsed time i' 59 MSFN Ni<Jhl T Eat 1 55 Terminate passive thermal control TV 56 57 58 59 Commander and Lunar Module Pilot transfer to LM LM inspection Waste water dump Commander and Lunar Module Pilot transfer to CSM Initiate passive thermal control 60 11 12 75 76 {c) 52 to 76 hours. Figure 3-1.- Continued. T Eat 1 T Sleep ..L Fuel cell purge f Eat 1 Terminate passive thermal control Prepare for lunar orbit insertion First lunar orbit insertion maneuver",
+          "score": 0.38554662466049194,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Why did the astronauts explore the surface before their planned sleep?",
+      "page": 16,
+      "start": 436,
+      "end": 722,
+      "source_passage": "A crew rest period was planned to precede the extravehicular activity to explore the lunar surface. However, the crew elected to perform the extravehicular portion of the mission prior to the sleep period because they were not overly tired and were adjusting easily to the l/6 gravity.",
+      "hit": false,
+      "page_hit": false,
+      "retrieved": [
+        {
+          "id": 426,
+          "page": 186,
+          "start": 949,
+          "end": 2317,
+          "text": ". It was then demonstrated that the crystals , while presenting an undesirable contamination , were not harmful to the system operation . The flight performance of the heat transport section was nominal . The investigation revealed that recently the corrosion inhibi tor :formulation was slightly modified . For future spacecraft , water/glycol with the original corrosion inhibitor formula\u00ad tion will be used . Depressurization of the lunar module cabin through the bacteria \u00b7filter for the extravehicular activity required more time than predicted . The data indicate that the cabin pressure transducer was reading high at the low end of its range ; consequently , the crew could have opened the hatch sooner if the true pressure had been known . During the sleep period on the lunar surface , the crew reported that they were too cold to sleep . Analysis of the conditions experienced in\u00ad dicated that once the crew were in a cold condition , there was not enough heat available in the environ mental control system to return them to a comfortable condition . Ground tests have indicated that in addition to the required procedural changes which are designed to maintain heat in the suit circuit , blankets will be provided and the crew will sleep in hammocks. Shortly after lunar module ascent , the crew reported that the carbon dioxide indicator was erratic , so",
+          "score": 0.42195138335227966,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 590,
+          "page": 255,
+          "start": 1493,
+          "end": 2243,
+          "text": "of tablets per indivi dual was not record ed. The Lunar Module Pilot recalled that he had take n two aspirin tablets almost every night to aid his sleep . 12 .2.3 Sleep It is interest ing to note that the crewmen's subjec tive es timates of amount of sleep were less than those ba sed upon te lemetered biomed i\u00ad cal da ta, as shown in table 12-I . By either count , the crewmen slept well in the command module . The simultaneous sleep period s during the trans lunar coast were carefully monitore d, and the crew arrived on the lunar surface well rested. Therefore , it was not nec essa ry to wait until after the first planned 4-hour sleep period before conducting the extra\u00ad vehicular act ivity . The crewmen slept very little in the lunar module",
+          "score": 0.4182800352573395,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 76,
+          "page": 39,
+          "start": 938,
+          "end": 2173,
+          "text": "allow the Command Module Pilot to acquire the lunar module (i n flight) at distances of over 100 miles. However, the lunar module was lost in the sextant field of view just prior to powered descent initiation (1 20-mile range) and was not regained until after ascent insertion (a t an approximate range of 250 miles), when it appeared as a blinking light in the night sky. In general, more than enough time was available to monitor systems and perform all necessary functions in a leisurely fashion, except during the rendezvous phase. During that 3-hour period when hundreds of computer entries, as well as numerous marks and other manual operations, were re\u00ad quired, the Command Module Pilot had little time to devote to analyzing any off-nominal rendezvous trends as they developed or to cope with any systems malfunctions. Fortunately, no additional attention to these de\u00ad tails was required. 4.12 LUNAR SURFACE OPERATIONS 4. 12. 1 Postlanding Checkout The postlanding checklist was completed as planned. Venting of the descent oxidizer tanks was begun almost immediately. When oxidizer pres\u00ad sure was vented to between 40 and 50 psi, fuel was vented to the same pressure level. Apparently, the pressure indications received on the",
+          "score": 0.3875502347946167,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 74,
+          "page": 38,
+          "start": 1842,
+          "end": 2695,
+          "text": "vehicular checklist, and so forth. This book was normally anchored to the Command Module Pilot by a clip attached to the end of his helmet tie-down strap. The sleep period was timed to coincide with that of the lunar module crew so that radio silence could be observed. The Command Module Pilot had complete trust in the various systems experts on duty in the Mission Control Center and therefore was able to sleep soundly. The method used for target acquisition (program P22) while the lunar module was on the surface varied considerably from the docked case. The optical alignment sight reticle was placed on the horizon image, and the resulting spacecraft attitude was maintained at the orbital rate manually in the minimum impulse control mode. Once stabilized, the vehicle main\u00ad tained this attitude long enough to allow the Command Module Pilot to",
+          "score": 0.3865809440612793,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 62,
+          "page": 35,
+          "start": 0,
+          "end": 1267,
+          "text": "4-6 4. 8. 2 Command Module Activities after lunar orbit circularization were routine, with the time being used primarily for photographs of the lunar surface. The activation of the lunar module in preparation for descent was, from the viewpoint of the Command Module Pilot, a well organized and fairly lei\u00ad surely period. During the abort guidance system calibration, the command module was maintained at a fixed attitude for several minutes without fir\u00ad ing thrusters. It was easy to stabilize the spacecraft with minimum im\u00ad pulse control prior to the required period so that no thruster firings were needed for at least 10 minutes. The probe, drogue, and hatch all functioned perfectly, and the operation of closing out the tunnel, preloading the probe, and cocking the latches was done routinely. Previous practice with installation and removal of the probe and drogue during translunar coast was most helpful. Two periods of orbital navigation (P22) were scheduled with the lu\u00ad nar module attached. The first, at 83 hours, consisted of five marks on the Crater Kamp in the Foaming Sea. The technique used was to approach the target area in an inertial attitude hold mode, with the X-axis being roughly horizontal when the spacecraft reached an elevation angle of",
+          "score": 0.37809479236602783,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "When were the crew and spacecraft released from quarantine?",
+      "page": 17,
+      "start": 213,
+      "end": 350,
+      "source_passage": "The crew and spacecraft were released from quarantine on August 10 , 1969 , after no evidence of abnormal medical reactions was observed.",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 30,
+          "page": 17,
+          "start": 0,
+          "end": 350,
+          "text": "---\ufffd, r ,... 3-3 After reaching the Manned Spacecraft Center, the spacecraft, crew, and samples entered the Lunar Receiving Laboratory quarantine area for continuation of the postlanding observation and analyses. The crew and spacecraft were released from quarantine on August 10 , 1969 , after no evidence of abnormal medical reactions was observed.",
+          "score": 0.7608604431152344,
+          "gold_overlap_chars": 137
+        },
+        {
+          "id": 638,
+          "page": 273,
+          "start": 0,
+          "end": 1173,
+          "text": "13-5 Event Time , G.m. t. July 24 Vis ual contact by aircraft 1639 Radar contact by USS Hornet 1640 VHF voice and rec overy-beaco n contact 1646 Command module landing (1 95 :1 8:3 5) 1650 Flotation collar inflated 1704 Command module hatch open 1721 Crew egres s in biological is olation garments 1729 Crew aboard Hornet 1753 Crew in Mobil e Quarantine Facility 1758 Command module lif ted from water 1950 Command module se cured to Mobile Quarantine Faci lity 1958 trans fer tunnel Command module hatch reopened 2005 Sample return containers 1 and 2 removed from command 2200 module Container 1 removed from Mobil e Quarantine Facility 2332 Container 2 removed from Mobile Quarantine Facilit y Container 2 and film launch to Johnston Island Container 1, film , and biological samples launched to Hickam Air Force Base , Ha waii Container 2 and film arrived in Houston Container 1, film, and bio logical samples arrived in Houston Command module decontaminated and hatch sec ured Mobile Quarantine Facility sec ured Mobile Quarantine Facility and command module offloaded Safing of command module pyrotechnics completed Mobile Quarantine Facility arrived at Houston Flight",
+          "score": 0.6079272627830505,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 614,
+          "page": 263,
+          "start": 0,
+          "end": 621,
+          "text": "12-10 The personnel in quarantine and in the crew re ceptio n area of the Lunar Receiv ing Labo ratory were approved for release from quarantine on August 10 , 1969 . Following decontamination using formaldehyde , the interior of the command module and the ground servicing equipment utilized in the decon\u00ad tam ination proced ures were approved for release from quarantine on August 10 , 1969 . The samples of lunar materia l and other it ems st ored in the bi olog\u00ad ica l is olatio n containers in the Lunar Receiv ing Laboratory are sc hed uled for release to principal sc ientif ic invest i gators in Sept ember 1969 .",
+          "score": 0.5975872278213501,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 639,
+          "page": 273,
+          "start": 859,
+          "end": 1366,
+          "text": "in Houston Container 1, film, and bio logical samples arrived in Houston Command module decontaminated and hatch sec ured Mobile Quarantine Facility sec ured Mobile Quarantine Facility and command module offloaded Safing of command module pyrotechnics completed Mobile Quarantine Facility arrived at Houston Flight crew in Lunar Rece iving Laboratory July 25 000 5 0515 1145 1615 2313 July 26 0300 0435 July 27 0015 0205 July 28 0600 1000 July 30 Command module delivered to Lunar Rece iving Laboratory 2317",
+          "score": 0.5689229965209961,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 610,
+          "page": 262,
+          "start": 0,
+          "end": 963,
+          "text": "12-9 The command module was taken aboard the USS Hornet about 3 hours after landing and atta ched to the Mobile Qua rantine Fac il ity through a flexible tunnel . The removal of lunar surface samples , film, data tape , and medica l samples went well , with one exception . Two of the medical sample containers leaked within the inner bio logi cal iso lation container . Corre ct ive measures were promptly exe cuted, and the quarantine proced ure was not violated. Transf er of the Mobile Quarantin e Facilit y from the re covery ship to a C-1 41 airc raft and from the aircra ft to the Lunar Recei ving Labo ratory at the Manne d Spacecra ft Center was accomplis hed without any ques tion of a quarantine violatio n. The transfer of the lunar surface samples and the command module into the Lunar Recei ving Laboratory was also acco m\u00ad plis hed as planne d. 12 .5.3 Quarantin e A tot al of 20 pers ons on the medi cal support team s were expos ed , directl y or",
+          "score": 0.5456184148788452,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What prevented the Commander from sleeping on the lunar surface?",
+      "page": 45,
+      "start": 31,
+      "end": 1091,
+      "source_passage": "The rest period was almost a complete loss . The helmet and gloves were worn to reli eve any subc oncio us anxi ety about a lo ss of cabin pre s\u00ad sure and prese nted no problem. But noi se, lighting , and a lower-than\u00ad desi red temperature were annoying . It was uncomfortably cool in the suits , even with water-flow dis connected. Oxygen flow was finally cut off , and the helmets were removed, but the noise from the glycol pumps was then loud enough to inter rupt sleep . The window shades did not completel y block out light , and the cabin was illuminated by a combi natio n of light through the shades , warning lights , and displa y lightin g . The Commander was resting on the as cent engine cover and was bothere d by the light enter\u00ad ing through the telesco pe . The Lunar Module Pil ot es timated he slept fit\u00ad fully for perhaps 2 hours and the Commander did not slee p at all , even though body positio ning was not a problem. Becaus e of the re duce d gravity , the posit ions on the floor and on the engine cover were both quite comfort\u00ad able .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 94,
+          "page": 45,
+          "start": 0,
+          "end": 1038,
+          "text": "4-16 4.1 2.6 Lunar Rest Period The rest period was almost a complete loss . The helmet and gloves were worn to reli eve any subc oncio us anxi ety about a lo ss of cabin pre s\u00ad sure and prese nted no problem. But noi se, lighting , and a lower-than\u00ad desi red temperature were annoying . It was uncomfortably cool in the suits , even with water-flow dis connected. Oxygen flow was finally cut off , and the helmets were removed, but the noise from the glycol pumps was then loud enough to inter rupt sleep . The window shades did not completel y block out light , and the cabin was illuminated by a combi natio n of light through the shades , warning lights , and displa y lightin g . The Commander was resting on the as cent engine cover and was bothere d by the light enter\u00ad ing through the telesco pe . The Lunar Module Pil ot es timated he slept fit\u00ad fully for perhaps 2 hours and the Commander did not slee p at all , even though body positio ning was not a problem. Becaus e of the re duce d gravity , the posit ions on the floor and",
+          "score": 0.650215208530426,
+          "gold_overlap_chars": 1007
+        },
+        {
+          "id": 590,
+          "page": 255,
+          "start": 1493,
+          "end": 2243,
+          "text": "of tablets per indivi dual was not record ed. The Lunar Module Pilot recalled that he had take n two aspirin tablets almost every night to aid his sleep . 12 .2.3 Sleep It is interest ing to note that the crewmen's subjec tive es timates of amount of sleep were less than those ba sed upon te lemetered biomed i\u00ad cal da ta, as shown in table 12-I . By either count , the crewmen slept well in the command module . The simultaneous sleep period s during the trans lunar coast were carefully monitore d, and the crew arrived on the lunar surface well rested. Therefore , it was not nec essa ry to wait until after the first planned 4-hour sleep period before conducting the extra\u00ad vehicular act ivity . The crewmen slept very little in the lunar module",
+          "score": 0.5747036337852478,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 426,
+          "page": 186,
+          "start": 949,
+          "end": 2317,
+          "text": ". It was then demonstrated that the crystals , while presenting an undesirable contamination , were not harmful to the system operation . The flight performance of the heat transport section was nominal . The investigation revealed that recently the corrosion inhibi tor :formulation was slightly modified . For future spacecraft , water/glycol with the original corrosion inhibitor formula\u00ad tion will be used . Depressurization of the lunar module cabin through the bacteria \u00b7filter for the extravehicular activity required more time than predicted . The data indicate that the cabin pressure transducer was reading high at the low end of its range ; consequently , the crew could have opened the hatch sooner if the true pressure had been known . During the sleep period on the lunar surface , the crew reported that they were too cold to sleep . Analysis of the conditions experienced in\u00ad dicated that once the crew were in a cold condition , there was not enough heat available in the environ mental control system to return them to a comfortable condition . Ground tests have indicated that in addition to the required procedural changes which are designed to maintain heat in the suit circuit , blankets will be provided and the crew will sleep in hammocks. Shortly after lunar module ascent , the crew reported that the carbon dioxide indicator was erratic , so",
+          "score": 0.5569067001342773,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 75,
+          "page": 39,
+          "start": 0,
+          "end": 1240,
+          "text": "4-10 move to the lower equipment bay and take marks. He could also move from the equipment bay to the hatch window in a few seconds to cross-check attitude. This method of operation in general was very satisfactory. Despite the fact that the Command Module Pilot had several uninter\u00ad rupted minutes each time he passed over the lunar module, he could never see the spacecraft on the surface. He was able to scan an area of approx\u00ad imatel y l square mile on each pass , and ground estimates of lunar module position varied by several miles from pass to pass . It is doubtful that the Command Module Pilot was ever looking precisely at the lunar module and more likely was observing an adjacent area. Although it was not pos\u00ad sible to assess the ability to see the lunar module from 60 miles, it was apparent there were no flashes of specular light with which to attract his attention. The visibility through the sextant was good enough to allow the Command Module Pilot to acquire the lunar module (i n flight) at distances of over 100 miles. However, the lunar module was lost in the sextant field of view just prior to powered descent initiation (1 20-mile range) and was not regained until after ascent insertion (a t an approximate range",
+          "score": 0.521449089050293,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 18,
+          "page": 12,
+          "start": 2172,
+          "end": 2976,
+          "text": "and oxygen purge systems . The Commander egressed through the forward hatch and deployed an equipment module in the desc ent sta ge . A camera in this module provided live te le\u00ad visio n cove rage of the Commander des cending the ladder to the surface , with first contact made at 109: 24 :1 5 (9 :5 6:1 5 p.m . e.s. t. , July 20 , 1969 ). The Lunar Module Pi lot egressed so on therea fter , and both crewmen used the initia l peri od on. the sur face to be come acclima ted to the reduced gravity and unfamil i ar surface conditio ns . A contingency sample was taken from the sur face , and the televi sio n camera was deploye d so tha t most of the lunar module was in clude d in its view field. The crew activa te d the sc ientif ic experimen ts , whic h incl uded a solar wind detec to r, a pas sive",
+          "score": 0.5205609202384949,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Why did manual descent consume more reaction-control propellant than automatic descent?",
+      "page": 55,
+      "start": 1482,
+      "end": 1803,
+      "source_passage": "The reaction control propellant consumption while in the manual de sc ent control mode was 51 pounds , approx\u00ad imately 1-1/2 times greater than that for the automatic mode . This in\u00ad crease in usage rate is attributed to the requirement for greater attitude and translation maneuvering in the final sta ges of desce nt .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 131,
+          "page": 55,
+          "start": 827,
+          "end": 1963,
+          "text": "detected in the atti tude-rate information following the yaw maneuver. The sl osh ef\u00ad fect increa sed to the point where reactio n control thruster firin gs were required to damp the rate prior to throttle recovery . The dynamic be\u00ad havior at this point and through the remainder of des cent was comparable to that obser ved in simulations and indicates nominal control syste m per\u00ad formance . Approximately 95 pounds of reaction control propellant were used during powered descent , as compared to the predi cted value of 40 pounds . Plots of prope llant consumption for the reaction control and desc ent pro\u00ad puls ion systems are shown in figure 5-12 . The reaction control propellant consumption while in the manual de sc ent control mode was 51 pounds , approx\u00ad imately 1-1/2 times greater than that for the automatic mode . This in\u00ad crease in usage rate is attributed to the requirement for greater attitude and translation maneuvering in the final sta ges of desce nt . The desc ent propulsio n system propellant usage was greater than predicted beca use of the additio nal time re quired for the landing si te redesigna tio n . 5",
+          "score": 0.48604828119277954,
+          "gold_overlap_chars": 321
+        },
+        {
+          "id": 355,
+          "page": 154,
+          "start": 729,
+          "end": 1303,
+          "text": "- Reaction control system propellant us age predi ctio r:.s and flight data agree d within 5 percen t . Usage was higher than expected during transpos ition and docking and the initial se t of navigational si ght\u00ad ings . This was balanced by efficient maneuvering of the command and se rv\u00ad ice modules during the rende zvous se quence , in which the propellant con\u00ad sumption was less than predict ed. The usages listed in the following table were calculated from telemetere d helium tank press ure data us ing the relatio nship between pres sure , volume, and tempe rature .",
+          "score": 0.43711188435554504,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 354,
+          "page": 154,
+          "start": 0,
+          "end": 1007,
+          "text": "8-25 8.1 1.1 Service Propuls ion Propellant The service propuls ion propella nt us age was within 5 percen t of the preflight esti mate for the mission . The deviatio ns which were experienced have been attributed to the variations in firing times (s ee se ction 8.8). In the following table , the loadings were calcula ted from gaging system readings and measured densities prior to lift -off . Actual us age , lb Preflight Conditions planned FUel Oxidi zer Total usage , lb Loaded In tanks 15 63 3 24 967 In lines 79 124 Total 15 712 25 091 40 803 40 803 Consumed 13 754 21 985 35 739 36 296 Remaining at command \u00b7 1 958 3 106 5 064 4 50 7 module/s ervice module separation 8.1 1.2 Reaction Control Propellant Se:rvice module .- Reaction control system propellant us age predi ctio r:.s and flight data agree d within 5 percen t . Usage was higher than expected during transpos ition and docking and the initial se t of navigational si ght\u00ad ings . This was balanced by efficient maneuvering of the command",
+          "score": 0.43406230211257935,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 416,
+          "page": 181,
+          "start": 0,
+          "end": 497,
+          "text": "9-24 Propellant low level li ght on 116 Engine cutoff 5 Firing time remaining , se c Landing go/no-go decisio n point 20 Calculated propell ant deplet ion 0 The indi cated 45 seco nds to propellant depleti on compares favorably with the post flight calculated value of 50 se conds to oxidi zer tank 2 depletion . The 5-s eco nd dif ference is within the measurement ac curacy of the system . The low level si gnal was tri ggere d by the point sensor in eit her the oxidi zer tank 2 or fuel tank 2.",
+          "score": 0.43279534578323364,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 420,
+          "page": 184,
+          "start": 0,
+          "end": 1047,
+          "text": "9-27 9. 9 ASCENT PROPULSION The ascent propulsio n system was fired for 435 seco nds from lunar lift-off to orbital insertion . All aspects of system performance were nominal. The regulator ou tlet pres sure was 184 psia during the firing and returned to the no minal lock-up value of 188 .5 psia after engine cutoff. Table 9. 9-I presents a comparison of the actual and predi cted perform\u00ad ance . Bas ed on engine flow rate data, the engine mixture ratio was esti\u00ad mated to be 1.5 95 . The est imated usable propellant remaining at engine shutdown was 174 pounds oxidizer and 121 pounds fuel ; these quantities are equivalent to 25 seco nds additio nal firing time to oxidizer depletion. After ascent propulsio n system cutoff and during lunar orbit , the fuel and interface pressu res increa sed from the ir respectiv e flow pres\u00ad sures to lock-up , and then continued to increase approximately 3.6 psi for fuel and 11 to 12 psi for oxidizer . Loss of sig nal oc curred approx\u00ad imately 39 minutes after engine shutdown as the vehicle went behind",
+          "score": 0.4282904863357544,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How long did the lunar television transmission operate continuously?",
+      "page": 160,
+      "start": 211,
+      "end": 529,
+      "source_passage": "Telev isio n transmi ssio n was good during the entire extravehic ular activity , both from the desc ent st age stowage tmit and from the tripod on the lunar surfa ce . Sig nal-to- noise rati os of the television link were very good . The tel evision was turned off after 5 hours 4 minutes of contin uous operatio n .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 367,
+          "page": 160,
+          "start": 0,
+          "end": 985,
+          "text": "9-3 After crew ingress into the lunar module , the voi ce link was lost when the portable li fe support syste m antennas were sto wed; however , the data from the ext ravehi cular mobili ty unit remained good . Telev isio n transmi ssio n was good during the entire extravehic ular activity , both from the desc ent st age stowage tmit and from the tripod on the lunar surfa ce . Sig nal-to- noise rati os of the television link were very good . The tel evision was turned off after 5 hours 4 minutes of contin uous operatio n . Lunar module voice and data communi catio ns were normal during the lift-off from the lunar surfa ce . The stee rable antenna maintained lock and tracked throughout the as cent . Uplink si gnal st rength remained stable at approximately minus 88 dBm. 9.5 INSTRUMENTATION Perf ormance of the operati onal inst rumentation was satis factor y with the exception of the data st orage elec troni c assembly (o nboard voi ce re corder) . When the tape was played",
+          "score": 0.5629627704620361,
+          "gold_overlap_chars": 318
+        },
+        {
+          "id": 228,
+          "page": 105,
+          "start": 2987,
+          "end": 3263,
+          "text": "of portable-life-su pport-s ystem status da ta for the Lunar Module Pilot shows that frame synchroni zation was maintained 88 and 100 percen t of the time for the 85- and 210-foot statio ns , respe c-\u00ad tively . Based on thes e compariso ns , the 85-f oot ground statio n could",
+          "score": 0.5342549085617065,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 28,
+          "page": 16,
+          "start": 919,
+          "end": 2187,
+          "text": "the equipment module in the descent stage. The television camera located in the module operated satisfactorily and provided live television cover\u00ad age of the Commander's descent to the lunar surface. The Commander col\u00ad lected the contingency lunar material samples, and approximately 20 min\u00ad utes later, the Lunar Module Pilot egressed and dual exploration of the lunar surface began. During this exploration period, the television camera was deployed and the American flag was raised on the lunar surface. The solar wind experiment was also deployed for later retrieval. Both crewmen evalu\u00ad ated their mobility on the lunar surface, deployed the passive seismic and laser retro-reflector experiments, collected about 47 pounds of lunar material, and obtained photographic documentation of their activities and the conditions around them. The crewmen reentered the lunar module after about 2 hours 14 minutes of exploration. After an 8-hour rest period, the crew began preparations for ascent. Lift-off from the lunar surface occurred on time at 124:22:00.8. The spacecraft was inserted into a 48.0- by 9.4-mile orbit from which a ren\u00ad dezvous sequence similar to that for Apollo 10 was. successfully performed. Approximately 4-1/2 hours after lunar module ascent, the",
+          "score": 0.5338199138641357,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 220,
+          "page": 104,
+          "start": 751,
+          "end": 1732,
+          "text": "h maneuve r. Two-way phase 'l ock was regained when the crew acquired the high gai n antenna in the narrow beam width . The tele metry data recorded onboard the space craft during this phas e were subs equently played back to the ground. Between 3-l/2 and 4 hours , the downlink voi ce received at the Missio n Control Cen\u00ad ter was dis torted by equipment failure s within the Goldstone st ation . During the fourth lunar orbit revolutio n , lunar module communications equipment was acti vated for the first time . Good quality normal and back\u00ad up down-voic e and high and low bit rate tele metry were rece ived through the 210 -foot Goldstone antenna while the spacecra ft was transmittin g through an omnidire ctio nal antenna. As expec ted, te lemetry decommutation frame synchroni zation could not be maintained in the \ufffdigh-bit-ra te mode using the 85-foot antenna at Goldstone for recep ti on . Between acqui si tion of the lunar module sig nal at 102:1 6: 30 and the pit ch-",
+          "score": 0.5320205688476562,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 226,
+          "page": 105,
+          "start": 1515,
+          "end": 2521,
+          "text": "the lunar surface operati on , an echo was heard .on the ground 2. 6 sec -\u00b7 onds after uplink transmi ss ions be cause uplink voi ce was turned around .and transmi tted on the lunar module S-band downlink ( se e se ct ion 16 .2. 9 ) .. The Parkes receiving station was largely used by the Mission Control Cen\u00b7\u00b7 ter as the primary rec eiving stati on for real-time televis ion tr ansmis\u00ad sions . The tel emetry decommutation system and the PAM-to-PCM converter maintained frame synchroniza ti on on the lunar module te lemetry data and the portable-life-s upport-system status data, respec tively , throughout the lunar surface activ ities . An evaluation of data recorded by the Honeysuckle statio n during lunar surface activities was accomplished to deter mine whether an 85-foot sta tion could have supported this mis sion phas e without deployment of the lunar module erecta ble antenna . The results were compared with thos e of a similar evaluati on recorded at the Goldstone statio n us ing the 210-",
+          "score": 0.5313503742218018,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What was wrong with the lunar module onboard voice recorder playback?",
+      "page": 160,
+      "start": 961,
+      "end": 1105,
+      "source_passage": "When the tape was played, no timing sig nal was evident and voice was weak and unreadable , with a 400-hertz hum and wideband noise background.",
+      "hit": false,
+      "page_hit": false,
+      "retrieved": [
+        {
+          "id": 702,
+          "page": 294,
+          "start": 1573,
+          "end": 2662,
+          "text": "not experience any voice breakup between each other or from the Network , indica ting that the breakup was probably caused by marginal keying of the voice-opera ted keying circuits of the lunar module downlink rel\ufffd . Voice tapes obtained of the Apollo 11 crew during altitude chamber tests were used in an attempt to duplicate the problem by simulating voice modulation character istic s and levels being fed into the lunar module communica tions syst em during the extravehicular activi ty . The se voice tapes modula.ted a sig nal generator which was received by and relayed through a breadboa.rd (mockup) of the lunar module communi cation syste m . There was no dis cernible bre akup of the relayed voice with the sensi tivity control set at 9. All analysis and laboratory test ing to date indicates that the voice bre akup experienced during the extravehic ular activity was not an inherent syste m design problem . Test ing has shown that any voice which will key the extravehicu lar communicatio n system will also key the lunar module relay if the sensiti vity control is set at 9.",
+          "score": 0.6603524684906006,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 709,
+          "page": 296,
+          "start": 1589,
+          "end": 2538,
+          "text": "on . Then , the voice channel failed and recorded no voice or background nois e, although timing and reference tones were recorded properly . This failure does not duplica te the flight results , indica ting that it did not exist in flight . Tests with the reco rder installed in a lunar module were performed to determine the vehicle wiring failures that could cause the sig nals found on the flight tape . An open in both the timing si gnal return line and the voice sig nal line would duplicate the problem . Similar broken wires were found in LTA-8 during thermal/vacuum tes ts . The most likely cause of the failure was two broken wires ( 26 gage ) in the vehicle har\u00ad ness to the record er . For Apollo 12 through 15 , the wire harnes s at the reco rder connector will be wrapped with tape to sti ffen it and provide protectio n against flexure damage . For Apollo 16 and subsequent , a sheet metal cover will be added to protect the harness .",
+          "score": 0.6522307395935059,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 708,
+          "page": 296,
+          "start": 803,
+          "end": 1898,
+          "text": "n if the echo beco mes obje cti onable . The ground syste m , however , will still have the echo of CAPCOM when using the simplex mode . This anomaly is closed. 16 .2.1 0 Onboard Recorder Failure The data storage electronics ass embly did not record properly in flight . Post flight pl\ufffdback of the tape revealed that the reference tone was rec orded properly ; however , the voice sig nal was very low and recorded with a 400-hertz tone and strong background noise . Occasio n\u00ad ally, the voice level was normal for short peri ods , In addition , only the 4. 6-kilohertz timing sig nal was record ed. This signal should have switched between 4.2 and 4.6 kilohertz to record the timing code . During post flight tests , the rec order functio ned properly for the first 2 hours of opera tion . Then , the voice channel failed and recorded no voice or background nois e, although timing and reference tones were recorded properly . This failure does not duplica te the flight results , indica ting that it did not exist in flight . Tests with the reco rder installed in a lunar module were performed",
+          "score": 0.5836492776870728,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 701,
+          "page": 294,
+          "start": 751,
+          "end": 1903,
+          "text": "During Extravehic ular Activity Voice-operated relay operation during extravehicu lar activity caused breakup of voice received by the Network . This bre akup was asso ciated with both crewmen but primarily with the Lunar Module Pilot . In ground tests , the condit ions experienced during the extravehic \u00ad ular activity were duplicated by decreasing the sens itivity of the lunar module downlink voic e-operated keying control from 9 (maximum) to 8, a decrease of about 7 dB. During chamber tests , lunar module keying by the extravehic ular communicati ons system was demonstra ted when the se nsi\u00ad tivity control was set at 9. The crew indi cated that the pre-extravehicular activity adjustment should have been set in accordance with the on board checklist (maximum increa se ). The crew als o veri fied that they did not experience any voice breakup between each other or from the Network , indica ting that the breakup was probably caused by marginal keying of the voice-opera ted keying circuits of the lunar module downlink rel\ufffd . Voice tapes obtained of the Apollo 11 crew during altitude chamber tests were used in an attempt to duplicate the",
+          "score": 0.5721491575241089,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 704,
+          "page": 295,
+          "start": 767,
+          "end": 1763,
+          "text": "that time , the lunar module was operatin g in a relay mode . Uplin k voice from the S-band was proc es sed and retransmit ted to the two extra\u00ad vehicular crewmen via the lunar module VHF transm itt er. Crew voic e and data were received by the lunar module VHF re ceiver and re layed to the earth via the lunar module S-band transmitter ( se e fig . 16-1 6). The echo was duplicated in the labor'atory and resul ted from mechanica l acous ti cal coupl ing between the communicatio ns carri er earphone and mic rophone ( fig. 16-17 ). The crew indicated that their volume controls were set at maxi\u00ad mum during the extravehicula r activit y . This se tting would provide a level of approximately plus 16 dBm into ea ch crewman 's earphone s. Isol a\u00ad tion between earphones and micro phones, exclusive of air path coupling , is approximately 48 dB . The ground voi ce si gnal would therefore appear , at the microphone output , at a level of approximately minus 32 dBm . As \u00ad suming extravehi cular",
+          "score": 0.5640602111816406,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Why was actual cabin oxygen use below the preflight prediction?",
+      "page": 190,
+      "start": 781,
+      "end": 1021,
+      "source_passage": "The actual oxygen us age was lower than the preflig ht predictio ns because oxygen leak rate from the cabin was less than the specif ic ation value . The actual rate was 0.05 lb/hr , as compared with the speci fi cation rate of 0.2 lb/hr .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 437,
+          "page": 190,
+          "start": 752,
+          "end": 1123,
+          "text": "2.07 315 380 9. 13. 4 Oxygen The actual oxygen us age was lower than the preflig ht predictio ns because oxygen leak rate from the cabin was less than the specif ic ation value . The actual rate was 0.05 lb/hr , as compared with the speci fi cation rate of 0.2 lb/hr . In the following tabl e , the actual quantitie s loaded and consume d are bas ed on tel emetered data.",
+          "score": 0.6759223937988281,
+          "gold_overlap_chars": 240
+        },
+        {
+          "id": 436,
+          "page": 190,
+          "start": 0,
+          "end": 993,
+          "text": "9-33 9. 13. 3 Reaction Control System Propellant The increased hover time for lunar landin g resulted in a deviation of over 10 percen t in the re action control system propellant usage , as compared with the prefli ght predi ctions . Pro pel lant consumpti on was cal\u00ad culated from tel emetered helium tank pressu re hist ories usin g the rela\u00ad ti onships between pres sure , volume , and temperature . The mixture ratio was as sumed to be 1.9 4 for the calculatio ns . Actual usage , lb Preflight Condition planned Fuel Oxi dizer Total us age , lb Loaded System A 108 209 System B 108 209 Total 216 418 634 633 Consumed System A 46 90 System B 62 121 Total 108 211 319 253 Remaining at lunar module je ttison System A 62 119 System B 46 88 Total 108 2.07 315 380 9. 13. 4 Oxygen The actual oxygen us age was lower than the preflig ht predictio ns because oxygen leak rate from the cabin was less than the specif ic ation value . The actual rate was 0.05 lb/hr , as compared with the speci fi",
+          "score": 0.5072284936904907,
+          "gold_overlap_chars": 212
+        },
+        {
+          "id": 434,
+          "page": 189,
+          "start": 0,
+          "end": 1005,
+          "text": "9-3 2 Actual us age , lb Pre flight Condition planned Fuel Oxidizer Total usage , lb Loaded 6975 11 209 18 184 18 184 Consumed Nominal 17 010 Redesig nat ion 103 Margin for manual hover ll4 Total 6724 10 690 17 414 17 227 Remaining at engine cutoff Tanks 216 458 Manifold 35 61 Total 251 519 770 957 9. 13 .2 Ascent Propulsion System Propellant The actual ascent propuls ion system propellant us age was within . 5 perc ent of the preflight predictions . The loadings in the following ta ble were determined from measured dens ities prior to lift-off and from weights of off-loaded propellants . A port ion of the propellants was used by the reacti on control system during ascen t stage operatio ns . Actual us age , lb Preflight Conditio n planned Fuel Oxidi zer Total us age , lb Loaded 2020 3218 5238 52 38 Consumed By ascen t propulsion sys- 1833 2934 tern prior to asc ent stage jet tiso n By react ion control system 23 46 Totai 1856 298 0 4836 4966 Remaining at asc ent stage 164 238 402 272 je tt",
+          "score": 0.4666319489479065,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 77,
+          "page": 39,
+          "start": 1878,
+          "end": 2331,
+          "text": "landing Checkout The postlanding checklist was completed as planned. Venting of the descent oxidizer tanks was begun almost immediately. When oxidizer pres\u00ad sure was vented to between 40 and 50 psi, fuel was vented to the same pressure level. Apparently, the pressure indications received on the ground were somewhat higher and were increasing with time (s ee section 16.2. 2). At ground request, the valves were reopened and the tanks vented to 15 psi.",
+          "score": 0.46107903122901917,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 670,
+          "page": 285,
+          "start": 661,
+          "end": 1570,
+          "text": "brica nt used on the hatch sea l , and outgassi ng of other components used in the tunnel area. Odors from these so urces were re\u00ad produced for the crew to co mpare with the odors detec ted during flight . The crew st ated that the odor from a sa mple of the docking hatc h ablato r was very si mi lar to that detected in flig ht . Apparent ly , removal of the outer insula tio n (T G-15000 ) from the hatc h of Apollo 11 (a nd subseq uent ) resulted in hig her ablator temperatures and , there fore , a larger amount of outgassi ng odor than on previ ous fli ghts. This anomaly is clos ed. 16 .1.8 Low Oxygen Flow Rate Shortly after launch , the oxygen flow measurement was at the lower limit of the instr umentatio n rather than indi ca ting the nominal metabolic rate of 0. 3 lb /hr. Also, during water separator cycli c accu mulator cycles , the flow indi catio n was le ss than the expe cted full meas ur",
+          "score": 0.4595252275466919,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What frequency dominated seismic signals made by astronaut activity?",
+      "page": 215,
+      "start": 1561,
+      "end": 1774,
+      "source_passage": "The pre dominant frequency of all of thes e signals is 7.2 to 7.3 hertz. The spe ctrum of the sig nal produced by the Co mmander on the lunar module ladder , shown in figure ll-23 , contains this prominent peak .",
+      "hit": false,
+      "page_hit": false,
+      "retrieved": [
+        {
+          "id": 794,
+          "page": 339,
+          "start": 0,
+          "end": 220,
+          "text": ",? t ! ' NASA-S-69-3 800 East Passive seismic experiment Astronaut handle Ni ckel thermometer dust detector Fi gure A- 4.- Passive seismic experiment package depl oyed configuration showing dust detector ge ometry . West",
+          "score": 0.4690796136856079,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 517,
+          "page": 214,
+          "start": 1979,
+          "end": 2505,
+          "text": "period when the crewmen were on the surfa ce . Except for the occa sio nal occ urrence of tr ans ie nt sig nals , the ba ck\u00ad ground seis mi c si gnal level on the long period verti cal component seis\u00ad mometer is below system nois e; th a t is , be low 0. 3 millimi cron over the period range from l to 10 se conds (s ee figs . ll-21 and ll-2 2) . This is between one hun dred and ten thousand times less than the average ba ck\u00ad ground levels obse rved on earth in the normal period range for micro\u00ad sei sms (6 to 8 se conds) .",
+          "score": 0.44971007108688354,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 525,
+          "page": 216,
+          "start": 2065,
+          "end": 2840,
+          "text": "whi ch tr avel along the surface of the moon in contrast to bo dy waves whi ch would tr av\u00ad el through the inte rior of the moon . Body waves (c ompressio nal and shea r waves ) produced by a given se is mi c source normally travel at higher ve\u00ad locit ies than surface waves and , hence , are obse rved on the record bef ore the surface waves . No bo dy waves were obser ved for these events . The wave tra ins begin with sh ort period os ci llatio ns (2 to 4 se conds ) which gradually in creas e in period to 16 to 18 sec onds , when the tr ain dis\u00ad pers ed. A wave tr ain having si milar characteristics has been obse rved on the long period verti cal channel in asso ci atio n with a se ries of di s\u00ad crete pulses on the short period vertica l channel . In this case, the",
+          "score": 0.4439535439014435,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 524,
+          "page": 216,
+          "start": 1379,
+          "end": 2309,
+          "text": "v e concl u\u00ad sio n that they were pro duced by the lunar module its elf , pres umably by venting proc esse s . Some of the obser ved high frequency sig nals might pos sibly have bee n from ne arby meteor oi d impact s. An analysis is bein g made of se veral high\u00ad frequency sig nals which may correspond to meteoroid im pacts at ranges of a few kilom eters , or less , from the pass ive se is mi c experiment pack age . Substa ntive remarks on these event s cannot be made until spect ra of the sig nals are computed. 11 .4 .3 Dista nt Sei smi c Event s During the peri od from July 22 through 24 , three of the recorded signa ls appear to be surface waves , that is , se is mi c waves whi ch tr avel along the surface of the moon in contrast to bo dy waves whi ch would tr av\u00ad el through the inte rior of the moon . Body waves (c ompressio nal and shea r waves ) produced by a given se is mi c source normally travel at higher ve",
+          "score": 0.42718181014060974,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 526,
+          "page": 217,
+          "start": 0,
+          "end": 964,
+          "text": "11-20 long period wave train observed on the re cord is simply the s ummation of tr ansi ents corresponding to these pulses and, hence , is of instr umental orlgln . A dispersio n of this type is commonly obser ved on earth in var\u00ad ious types of surface waves and is well underst ood. The dispers ion , or gradual tr ans formation of an initia l impulsi ve source to an extended oscilla to ry tr ain of waves , is produced by propagatio n through a wave guide of some type . The events obser ved appear only on the hori zontal component se ismometer s . Such hori zont ally pol ari zed waves , when observed on earth , would be called Love waves. On earth , surface waves which have a vertica l component of motion ( Rayleig h waves ) are usually the most prom\u00ad inent waves on the rec ord from a distan t event . Several pos sibil ities are pre sently under study to explain these waves . 11 .4.4 Engineering Evaluatio n From acquis itio n of initia l data to turn",
+          "score": 0.42612653970718384,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What was the likely cause of the service propulsion nitrogen leak?",
+      "page": 280,
+      "start": 1490,
+      "end": 1682,
+      "source_passage": "The most likely cause of the problem was .c ontaminatio n in one of the components downstre am of the inj ector pr e-valve , whic h iso lates the nitro\u00ad gen supply during nonfi ring periods .",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 725,
+          "page": 303,
+          "start": 0,
+          "end": 263,
+          "text": "NASA-S-69-3 776 Fuel (i\ufffda\ufffd:\ufffd Injector pre-valve Actuator and positio n pots liJ Oxidiz er \ufffd Fuel D Gaseous nitrogen Inl et \ufffd'\"\"\"'ti\ufffd\ufffd\\\\\\[\\\\,II\ufffd\ufffd;%1\ufffd-- Seals Outlet (most probable leak source) Figu re 16-2 .- Control for service propu lsion propel lants . I-' 0\\ I",
+          "score": 0.5218746066093445,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 652,
+          "page": 280,
+          "start": 1442,
+          "end": 2372,
+          "text": "tor and clos es the fuel and oxi dizer valves . The most likely cause of the problem was .c ontaminatio n in one of the components downstre am of the inj ector pr e-valve , whic h iso lates the nitro\u00ad gen supply during nonfi ring periods . The injector pre-valve was not con\u00ad si dered a problem source beca us e it was opened 2 minutes before ignitio n and no leakage oc curred during that perio d. The pos sibilit y that the regulator and relief valve were leaking was als o eliminated si nce pres\u00ad sure was appli ed to these components when the pre -valve was opene d. The so lenoid control valves have a hi story of leaka ge , which has occurred either beca us e of im proper interna l air gap adj ustment or be \u00ad caus e of se al damage caus ed by contamina tio n. The air gap adjustment could not have caus ed the leak age beca us e an improper air gap with the pre-valves open would have caused the leak to remain constan t .",
+          "score": 0.45260366797447205,
+          "gold_overlap_chars": 192
+        },
+        {
+          "id": 650,
+          "page": 280,
+          "start": 0,
+          "end": 953,
+          "text": "16-1 16 .0 ANOMALY SUMMARY This se ction contains a disc ussio n of the signif ica nt problems or disc repancies noted during the Apollo 11 missi on . 16 .1 COMMAND AND SERVICE MODULES 16 .1.1 Service Propuls ion Nitr ogen Leak During the lunar orbit insertio n firing , the gas eous nitrogen in the redundant se rvice propuls ion engine actuatio n syste m decayed from 2307 to 1883 psia ( se e fig. 16-1) , indi catin g a leak downstream of the inj ecto r pre -valve. The normal pres sure decay as experienced by the primary system is approximately 50 ps ia for each firing . Only the one system was aff ected, and no performance degradatio n resulted. This actu\u00ad ation system was us ed during the tr ansear th inj ectio n firing , and no leak\u00ad age was detected. The fuel and oxidiz er valves are controlled by actuators driven by nit rogen press ure . Fi gure 16-2 is repre sentativ e of both nitrogen con\u00ad trol systems . When power is appli ed to the",
+          "score": 0.4346078038215637,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 651,
+          "page": 280,
+          "start": 720,
+          "end": 1671,
+          "text": "o n firing , and no leak\u00ad age was detected. The fuel and oxidiz er valves are controlled by actuators driven by nit rogen press ure . Fi gure 16-2 is repre sentativ e of both nitrogen con\u00ad trol systems . When power is appli ed to the ser vice propulsio n system in preparation for a maneuver, the inj ector pre-valve is opened; however, \u00b7pres sure is not applied to the actuato rs becaus e the solenoid control valves are clos ed. When the engine is commanded on , the so lenoi d control valves are opene d, pressu re is applied to the actuator , and the rack on the actuator shaft drives a pini on gear to open the fuel and oxidiz er valves . When the engine is commanded off , the solenoi d control valve vents the actuator and clos es the fuel and oxi dizer valves . The most likely cause of the problem was .c ontaminatio n in one of the components downstre am of the inj ector pr e-valve , whic h iso lates the nitro\u00ad gen supply during nonfi ring",
+          "score": 0.4249289631843567,
+          "gold_overlap_chars": 181
+        },
+        {
+          "id": 714,
+          "page": 298,
+          "start": 789,
+          "end": 1840,
+          "text": "time would probably be sufficie nt to allow the gases in the diaphragm cavity to vent such that the switch would open normally . The crews for future missio ns will be briefed to rec ognize and handle similar situations . This anomaly is clos ed. 16 .2.1 3 Water in One Suit After the l1mar module achieved orbit , water began to enter the Commander 's suit in spurts (e stimated to be 1 tablespoonf ul ) at about 1-minute intervru.s . The Commander immediately selected the seco ndary water separator , and the spurts stopped after 15 to 20 minutes . The spurts entered the suit through the suit half vent duct when the crewmen were not wearing their helmets . The pressures in all liquid systems which interface ;rith the suit loop were normal, indicating no leakage . The pos sible sources of free water in the suit loop are the water separator drain tank , an inoperative water separator , local condensation in the suit loop ,. and leakage through the water separator selector valve. (se e fig. 16-11 ). . An evaluation of each of these poss ible",
+          "score": 0.41093572974205017,
+          "gold_overlap_chars": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How much did nitrogen pressure fall during the lunar orbit insertion firing?",
+      "page": 280,
+      "start": 228,
+      "end": 469,
+      "source_passage": "During the lunar orbit insertio n firing , the gas eous nitrogen in the redundant se rvice propuls ion engine actuatio n syste m decayed from 2307 to 1883 psia ( se e fig. 16-1) , indi catin g a leak downstream of the inj ecto r pre -valve.",
+      "hit": true,
+      "page_hit": true,
+      "retrieved": [
+        {
+          "id": 420,
+          "page": 184,
+          "start": 0,
+          "end": 1047,
+          "text": "9-27 9. 9 ASCENT PROPULSION The ascent propulsio n system was fired for 435 seco nds from lunar lift-off to orbital insertion . All aspects of system performance were nominal. The regulator ou tlet pres sure was 184 psia during the firing and returned to the no minal lock-up value of 188 .5 psia after engine cutoff. Table 9. 9-I presents a comparison of the actual and predi cted perform\u00ad ance . Bas ed on engine flow rate data, the engine mixture ratio was esti\u00ad mated to be 1.5 95 . The est imated usable propellant remaining at engine shutdown was 174 pounds oxidizer and 121 pounds fuel ; these quantities are equivalent to 25 seco nds additio nal firing time to oxidizer depletion. After ascent propulsio n system cutoff and during lunar orbit , the fuel and interface pressu res increa sed from the ir respectiv e flow pres\u00ad sures to lock-up , and then continued to increase approximately 3.6 psi for fuel and 11 to 12 psi for oxidizer . Loss of sig nal oc curred approx\u00ad imately 39 minutes after engine shutdown as the vehicle went behind",
+          "score": 0.5593118071556091,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 650,
+          "page": 280,
+          "start": 0,
+          "end": 953,
+          "text": "16-1 16 .0 ANOMALY SUMMARY This se ction contains a disc ussio n of the signif ica nt problems or disc repancies noted during the Apollo 11 missi on . 16 .1 COMMAND AND SERVICE MODULES 16 .1.1 Service Propuls ion Nitr ogen Leak During the lunar orbit insertio n firing , the gas eous nitrogen in the redundant se rvice propuls ion engine actuatio n syste m decayed from 2307 to 1883 psia ( se e fig. 16-1) , indi catin g a leak downstream of the inj ecto r pre -valve. The normal pres sure decay as experienced by the primary system is approximately 50 ps ia for each firing . Only the one system was aff ected, and no performance degradatio n resulted. This actu\u00ad ation system was us ed during the tr ansear th inj ectio n firing , and no leak\u00ad age was detected. The fuel and oxidiz er valves are controlled by actuators driven by nit rogen press ure . Fi gure 16-2 is repre sentativ e of both nitrogen con\u00ad trol systems . When power is appli ed to the",
+          "score": 0.5572112202644348,
+          "gold_overlap_chars": 241
+        },
+        {
+          "id": 340,
+          "page": 149,
+          "start": 1927,
+          "end": 2758,
+          "text": "s it i on during the se paratio n and first midco urse firings and for the firs t 76 seco nds of the lunar orbit inser\u00ad tio n firing . At that time , the valve was moved to the \"i ncre ase\" po sitio n and remaine d there thr ough the first 122 seco nds of the tr ans earth in jec \u00ad tio n firing . The valve posi tio n was \u00b7t hen .m oved to \"normal\" for approxi\u00ad mately 9 seco nds and then to \"decre ase\" for most of the remainder of the transea rth inj ec tio n firing . Fi gure 8. 8-l shows the indi cated propellant unbalanc e , as computed from the data. The in di cated unbalan ce history should reflec t the un\u00ad balance hi st ory di sp layed in the cabin , within the ac curacy of the te lem\u00ad etry system. As expe cted, base d on previ ous flights , the indi cated un\u00ad balanc e following the st art of the lunar orbit inser ti",
+          "score": 0.5532639622688293,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 421,
+          "page": 184,
+          "start": 794,
+          "end": 1841,
+          "text": "sed from the ir respectiv e flow pres\u00ad sures to lock-up , and then continued to increase approximately 3.6 psi for fuel and 11 to 12 psi for oxidizer . Loss of sig nal oc curred approx\u00ad imately 39 minutes after engine shutdown as the vehicle went behind the moon. Pressure rises in the system were obse rved during both the Apollo 9 and 10 missio ns . This in'itia l pressur e rise after shutdown was caused by a number of contibuting factors , such as, regulator lockup , heating of the ullage gas , and vaporization from the remaining. propellants . At reacquis ition of sig nal ( approximately 1 hour 29 minutes after shutdown) a drop of approximately 6 psi and 3.6 psi had oc curred in the oxidizer and fuel pressu res , respectiv ely . Thereafter , the pressure re\u00ad mained at a constant level for the 4.5 hours that data were monitor ed, which rules out leakage . The apparant pressu re drops had no effect on ascent propulsion system performance. The pressure drop was probably caused by a com bination of ullage gas temperature cooling , pr",
+          "score": 0.5387632846832275,
+          "gold_overlap_chars": 0
+        },
+        {
+          "id": 343,
+          "page": 150,
+          "start": 723,
+          "end": 1659,
+          "text": ", and at cros sover the expect ed st ep in\u00ad creas e did oc cur . At the end of the firin g , the crew reported that the unbalance was a 50-pound increa se, which agrees well with the tel emeter ed data shown in figure 8.8 -1. This early re cognitio n of a lower mixture ratio and the movement of the propellant utiliti zation valve to the \"in \u00ad crea se\" pos ition durin g lunar orbit insert ion resul ted in a higher -than\u00ad pred icted average thrust for the firin g and a duration of 4.5 se conds less than predicted. The duration of the firin g as det ermined by Missio n Control , was de\u00ad creas ed to reflec t the higher thrust level experi ence d on the lunar orbit ins ertion firing . However , during the tr ans earth injec tio n firing , the propella nt utili zation valve was cycled from the normal to the decrease position two times . This resu lted in less than the expe cted thrust and conseq uently resulted in an overburn of",
+          "score": 0.5040557980537415,
+          "gold_overlap_chars": 0
+        }
+      ]
+    }
+  ],
+  "relevance": "same PDF page and >= min(80, gold passage length) characters intersect annotated gold passage; question hit rate@5, one annotated source passage per query"
+}

@@ -1,0 +1,482 @@
+{
+  "accuracy": 0.9411764705882353,
+  "n": 68,
+  "predictions": [
+    {
+      "text": "After a frustrating morning, I am asking you to reschedule the courier visit.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to enable two factor authentication.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to recover access to my profile.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "I can sign in, but file uploads fail with error 500.",
+      "label": "technical",
+      "type": "compositional",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: return the money for my cancelled order.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "Do not reset my password; reverse the extra charge.",
+      "label": "billing",
+      "type": "compositional",
+      "prediction": "account",
+      "correct": false
+    },
+    {
+      "text": "The only help I want right now is: change my login email.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: fix the tax on my bill.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The app crashed after checkout, but please refund the duplicate payment.",
+      "label": "billing",
+      "type": "compositional",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: track the delayed shipment.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to track the delayed shipment.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to reverse the duplicate charge.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The software is fine; the physical box is missing. Find it.",
+      "label": "delivery",
+      "type": "compositional",
+      "prediction": "technical",
+      "correct": false
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to update my username.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: enable two factor authentication.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to refund my payment.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: update the shipping address.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The courier tracking page crashes. Repair the page, not the shipment.",
+      "label": "technical",
+      "type": "compositional",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "I was billed for a replacement password. I need my money back.",
+      "label": "billing",
+      "type": "compositional",
+      "prediction": "account",
+      "correct": false
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to locate my missing parcel.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: delete my account.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to unlock my account.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: reset my password.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "Do not refund anything; recover my locked profile.",
+      "label": "account",
+      "type": "compositional",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to cancel the recurring subscription charge.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: fix the app crash.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to correct the invoice.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: refund my payment.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to return the money for my cancelled order.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: repair the failing file upload.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to fix the broken search function.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: reschedule the courier visit.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: resolve the server error.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to explain why the parcel has not arrived.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: fix the broken search function.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: fix the blank dashboard.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: correct the invoice.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "My parcel arrived; now delete my shopping profile.",
+      "label": "account",
+      "type": "compositional",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The delivery date widget freezes. Debug the widget.",
+      "label": "technical",
+      "type": "compositional",
+      "prediction": "delivery",
+      "correct": false
+    },
+    {
+      "text": "The only help I want right now is: reverse the duplicate charge.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: explain the extra fee.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: find the package marked delivered.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to fix the app crash.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to change my login email.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to fix the blank dashboard.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: explain why the parcel has not arrived.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: cancel the recurring subscription charge.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to delete my account.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: arrange redelivery of my package.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The invoice shows my old email. Change my sign-in email, not my invoice.",
+      "label": "account",
+      "type": "compositional",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to arrange redelivery of my package.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to update the shipping address.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "Payment went through; please locate the parcel the courier lost.",
+      "label": "delivery",
+      "type": "compositional",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to fix the tax on my bill.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: unlock my account.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: recover access to my profile.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to resolve the server error.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: stop the app from closing unexpectedly.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to stop the app from closing unexpectedly.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: locate my missing parcel.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: update my username.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "My account works. Change where the courier should bring the package.",
+      "label": "delivery",
+      "type": "compositional",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to repair the failing file upload.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to explain the extra fee.",
+      "label": "billing",
+      "type": "paraphrase",
+      "prediction": "billing",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to repair the frozen screen.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to reset my password.",
+      "label": "account",
+      "type": "paraphrase",
+      "prediction": "account",
+      "correct": true
+    },
+    {
+      "text": "After a frustrating morning, I am asking you to find the package marked delivered.",
+      "label": "delivery",
+      "type": "paraphrase",
+      "prediction": "delivery",
+      "correct": true
+    },
+    {
+      "text": "The only help I want right now is: repair the frozen screen.",
+      "label": "technical",
+      "type": "paraphrase",
+      "prediction": "technical",
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "96": {
+    "chunk_tokens": 96,
+    "overlap_tokens": 24,
+    "chunks": 2012,
+    "recall_at_5": 0.5333333333333333,
+    "source_page_recall_at_5": 0.7333333333333333,
+    "relevance": "same PDF page and >= min(80, gold passage length) characters intersect annotated gold passage; question hit rate@5, one annotated source passage per query"
+  },
+  "256": {
+    "chunk_tokens": 256,
+    "overlap_tokens": 64,
+    "chunks": 834,
+    "recall_at_5": 0.6666666666666666,
+    "source_page_recall_at_5": 0.7333333333333333,
+    "relevance": "same PDF page and >= min(80, gold passage length) characters intersect annotated gold passage; question hit rate@5, one annotated source passage per query"
+  }
+}

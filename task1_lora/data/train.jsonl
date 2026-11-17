@@ -1,0 +1,320 @@
+{"text": "Can you find the package marked delivered?", "label": "delivery"}
+{"text": "I need you to restore my suspended login.", "label": "account"}
+{"text": "Please change the payment method.", "label": "billing"}
+{"text": "Could someone update my username for me?", "label": "account"}
+{"text": "Support, please explain why the parcel has not arrived today.", "label": "delivery"}
+{"text": "Support, please remove an old phone number from my profile today.", "label": "account"}
+{"text": "Can you cancel the recurring subscription charge?", "label": "billing"}
+{"text": "I need you to help me sign in.", "label": "account"}
+{"text": "I would like to fix the app crash.", "label": "technical"}
+{"text": "My request is to fix the tax on my bill.", "label": "billing"}
+{"text": "Support, please change my login email today.", "label": "account"}
+{"text": "I need you to change the delivery time.", "label": "delivery"}
+{"text": "Urgent: contact the courier about my shipment.", "label": "delivery"}
+{"text": "My request is to change the delivery time.", "label": "delivery"}
+{"text": "Support, please repair the connection timeout today.", "label": "technical"}
+{"text": "I would like to cancel the recurring subscription charge.", "label": "billing"}
+{"text": "Support, please explain the extra fee today.", "label": "billing"}
+{"text": "Can you unlock my account?", "label": "account"}
+{"text": "My request is to update my username.", "label": "account"}
+{"text": "Can you reverse the duplicate charge?", "label": "billing"}
+{"text": "Can you resolve the server error?", "label": "technical"}
+{"text": "Please change my login email.", "label": "account"}
+{"text": "Please track the delayed shipment.", "label": "delivery"}
+{"text": "Please delete my account.", "label": "account"}
+{"text": "I would like to return the money for my cancelled order.", "label": "billing"}
+{"text": "Can you track the delayed shipment?", "label": "delivery"}
+{"text": "My request is to check the estimated arrival date.", "label": "delivery"}
+{"text": "I need you to delete my account.", "label": "account"}
+{"text": "Support, please update the shipping address today.", "label": "delivery"}
+{"text": "Please stop the app from closing unexpectedly.", "label": "technical"}
+{"text": "Support, please check the estimated arrival date today.", "label": "delivery"}
+{"text": "Support, please find the package marked delivered today.", "label": "delivery"}
+{"text": "I need you to update the shipping address.", "label": "delivery"}
+{"text": "I need you to change the payment method.", "label": "billing"}
+{"text": "Please unlock my account.", "label": "account"}
+{"text": "My request is to cancel the recurring subscription charge.", "label": "billing"}
+{"text": "Please fix the tax on my bill.", "label": "billing"}
+{"text": "Could someone resolve the server error for me?", "label": "technical"}
+{"text": "My request is to change the payment method.", "label": "billing"}
+{"text": "My request is to help me sign in.", "label": "account"}
+{"text": "Can you correct the invoice?", "label": "billing"}
+{"text": "Support, please repair the frozen screen today.", "label": "technical"}
+{"text": "I would like to unlock my account.", "label": "account"}
+{"text": "Urgent: track the delayed shipment.", "label": "delivery"}
+{"text": "I need you to correct the invoice.", "label": "billing"}
+{"text": "I need you to refund my payment.", "label": "billing"}
+{"text": "Could someone repair the connection timeout for me?", "label": "technical"}
+{"text": "My request is to reverse the duplicate charge.", "label": "billing"}
+{"text": "Can you recover access to my profile?", "label": "account"}
+{"text": "I need you to cancel the recurring subscription charge.", "label": "billing"}
+{"text": "Urgent: restore my suspended login.", "label": "account"}
+{"text": "I would like to arrange redelivery of my package.", "label": "delivery"}
+{"text": "I would like to reset my password.", "label": "account"}
+{"text": "My request is to unlock my account.", "label": "account"}
+{"text": "Please repair the failing file upload.", "label": "technical"}
+{"text": "I need you to recover access to my profile.", "label": "account"}
+{"text": "I would like to resolve the server error.", "label": "technical"}
+{"text": "My request is to update the shipping address.", "label": "delivery"}
+{"text": "I need you to repair the frozen screen.", "label": "technical"}
+{"text": "Could someone change my login email for me?", "label": "account"}
+{"text": "Urgent: repair the failing file upload.", "label": "technical"}
+{"text": "Support, please refund my payment today.", "label": "billing"}
+{"text": "Urgent: change my login email.", "label": "account"}
+{"text": "Urgent: stop the app from closing unexpectedly.", "label": "technical"}
+{"text": "Support, please fix the blank dashboard today.", "label": "technical"}
+{"text": "I need you to locate my missing parcel.", "label": "delivery"}
+{"text": "My request is to arrange redelivery of my package.", "label": "delivery"}
+{"text": "Could someone reset my password for me?", "label": "account"}
+{"text": "I would like to contact the courier about my shipment.", "label": "delivery"}
+{"text": "Can you check the estimated arrival date?", "label": "delivery"}
+{"text": "I would like to locate my missing parcel.", "label": "delivery"}
+{"text": "My request is to fix the blank dashboard.", "label": "technical"}
+{"text": "Can you arrange redelivery of my package?", "label": "delivery"}
+{"text": "I would like to reverse the duplicate charge.", "label": "billing"}
+{"text": "Support, please check why my card was charged twice today.", "label": "billing"}
+{"text": "Support, please restore my suspended login today.", "label": "account"}
+{"text": "Can you fix the app crash?", "label": "technical"}
+{"text": "Could someone fix the broken search function for me?", "label": "technical"}
+{"text": "Urgent: fix the tax on my bill.", "label": "billing"}
+{"text": "I would like to repair the connection timeout.", "label": "technical"}
+{"text": "I need you to repair the failing file upload.", "label": "technical"}
+{"text": "Please correct the invoice.", "label": "billing"}
+{"text": "I would like to explain why the parcel has not arrived.", "label": "delivery"}
+{"text": "My request is to repair the failing file upload.", "label": "technical"}
+{"text": "I would like to update the shipping address.", "label": "delivery"}
+{"text": "Could someone check why my card was charged twice for me?", "label": "billing"}
+{"text": "Can you repair the frozen screen?", "label": "technical"}
+{"text": "Can you change the payment method?", "label": "billing"}
+{"text": "I need you to resolve the software installation error.", "label": "technical"}
+{"text": "Please locate my missing parcel.", "label": "delivery"}
+{"text": "I would like to help me sign in.", "label": "account"}
+{"text": "Could someone locate my missing parcel for me?", "label": "delivery"}
+{"text": "Support, please delete my account today.", "label": "account"}
+{"text": "Support, please stop the app from closing unexpectedly today.", "label": "technical"}
+{"text": "I would like to correct the invoice.", "label": "billing"}
+{"text": "Can you apply my missing discount?", "label": "billing"}
+{"text": "Please recover access to my profile.", "label": "account"}
+{"text": "Support, please update my username today.", "label": "account"}
+{"text": "Support, please resolve the software installation error today.", "label": "technical"}
+{"text": "Can you enable two factor authentication?", "label": "account"}
+{"text": "Could someone help me sign in for me?", "label": "account"}
+{"text": "Urgent: reverse the duplicate charge.", "label": "billing"}
+{"text": "Can you resolve the software installation error?", "label": "technical"}
+{"text": "I need you to unlock my account.", "label": "account"}
+{"text": "Can you refund my payment?", "label": "billing"}
+{"text": "Support, please reschedule the courier visit today.", "label": "delivery"}
+{"text": "Support, please change the delivery time today.", "label": "delivery"}
+{"text": "Please arrange redelivery of my package.", "label": "delivery"}
+{"text": "My request is to repair the frozen screen.", "label": "technical"}
+{"text": "I would like to apply my missing discount.", "label": "billing"}
+{"text": "My request is to track the delayed shipment.", "label": "delivery"}
+{"text": "I need you to fix the video playback bug.", "label": "technical"}
+{"text": "Urgent: locate my missing parcel.", "label": "delivery"}
+{"text": "I need you to repair the connection timeout.", "label": "technical"}
+{"text": "Please restore my suspended login.", "label": "account"}
+{"text": "Urgent: correct the invoice.", "label": "billing"}
+{"text": "Support, please contact the courier about my shipment today.", "label": "delivery"}
+{"text": "Urgent: change the delivery time.", "label": "delivery"}
+{"text": "I need you to apply my missing discount.", "label": "billing"}
+{"text": "Support, please enable two factor authentication today.", "label": "account"}
+{"text": "Urgent: repair the connection timeout.", "label": "technical"}
+{"text": "My request is to explain why the parcel has not arrived.", "label": "delivery"}
+{"text": "Can you fix the video playback bug?", "label": "technical"}
+{"text": "My request is to reset my password.", "label": "account"}
+{"text": "I need you to check the estimated arrival date.", "label": "delivery"}
+{"text": "Can you help me sign in?", "label": "account"}
+{"text": "Support, please unlock my account today.", "label": "account"}
+{"text": "Please reschedule the courier visit.", "label": "delivery"}
+{"text": "Could someone arrange redelivery of my package for me?", "label": "delivery"}
+{"text": "Please find the package marked delivered.", "label": "delivery"}
+{"text": "Please update the shipping address.", "label": "delivery"}
+{"text": "I need you to return the money for my cancelled order.", "label": "billing"}
+{"text": "Can you delete my account?", "label": "account"}
+{"text": "I would like to update my username.", "label": "account"}
+{"text": "Please cancel the recurring subscription charge.", "label": "billing"}
+{"text": "Can you explain the extra fee?", "label": "billing"}
+{"text": "Could someone delete my account for me?", "label": "account"}
+{"text": "My request is to explain the extra fee.", "label": "billing"}
+{"text": "Could someone explain the extra fee for me?", "label": "billing"}
+{"text": "My request is to fix the video playback bug.", "label": "technical"}
+{"text": "Please check the estimated arrival date.", "label": "delivery"}
+{"text": "My request is to check why my card was charged twice.", "label": "billing"}
+{"text": "I would like to change the payment method.", "label": "billing"}
+{"text": "My request is to stop the app from closing unexpectedly.", "label": "technical"}
+{"text": "Please repair the frozen screen.", "label": "technical"}
+{"text": "Could someone reverse the duplicate charge for me?", "label": "billing"}
+{"text": "Could someone change the delivery time for me?", "label": "delivery"}
+{"text": "I need you to reset my password.", "label": "account"}
+{"text": "I would like to fix the video playback bug.", "label": "technical"}
+{"text": "I need you to resolve the server error.", "label": "technical"}
+{"text": "I need you to remove an old phone number from my profile.", "label": "account"}
+{"text": "Support, please locate my missing parcel today.", "label": "delivery"}
+{"text": "Urgent: unlock my account.", "label": "account"}
+{"text": "Urgent: check the estimated arrival date.", "label": "delivery"}
+{"text": "I need you to fix the tax on my bill.", "label": "billing"}
+{"text": "Can you update the shipping address?", "label": "delivery"}
+{"text": "Urgent: help me sign in.", "label": "account"}
+{"text": "Could someone change the payment method for me?", "label": "billing"}
+{"text": "Support, please correct the invoice today.", "label": "billing"}
+{"text": "Can you update my username?", "label": "account"}
+{"text": "My request is to return the money for my cancelled order.", "label": "billing"}
+{"text": "Please update my username.", "label": "account"}
+{"text": "Support, please repair the failing file upload today.", "label": "technical"}
+{"text": "Please reverse the duplicate charge.", "label": "billing"}
+{"text": "Could someone reschedule the courier visit for me?", "label": "delivery"}
+{"text": "Support, please fix the broken search function today.", "label": "technical"}
+{"text": "Can you contact the courier about my shipment?", "label": "delivery"}
+{"text": "Support, please change the payment method today.", "label": "billing"}
+{"text": "Can you repair the connection timeout?", "label": "technical"}
+{"text": "Urgent: reset my password.", "label": "account"}
+{"text": "Could someone fix the blank dashboard for me?", "label": "technical"}
+{"text": "I would like to resolve the software installation error.", "label": "technical"}
+{"text": "Could someone repair the failing file upload for me?", "label": "technical"}
+{"text": "My request is to correct the invoice.", "label": "billing"}
+{"text": "My request is to locate my missing parcel.", "label": "delivery"}
+{"text": "I need you to reverse the duplicate charge.", "label": "billing"}
+{"text": "My request is to remove an old phone number from my profile.", "label": "account"}
+{"text": "Please apply my missing discount.", "label": "billing"}
+{"text": "Please explain why the parcel has not arrived.", "label": "delivery"}
+{"text": "Can you reschedule the courier visit?", "label": "delivery"}
+{"text": "Please fix the broken search function.", "label": "technical"}
+{"text": "Can you locate my missing parcel?", "label": "delivery"}
+{"text": "Urgent: reschedule the courier visit.", "label": "delivery"}
+{"text": "My request is to resolve the software installation error.", "label": "technical"}
+{"text": "Please help me sign in.", "label": "account"}
+{"text": "Could someone recover access to my profile for me?", "label": "account"}
+{"text": "Could someone update the shipping address for me?", "label": "delivery"}
+{"text": "I need you to reschedule the courier visit.", "label": "delivery"}
+{"text": "Please fix the app crash.", "label": "technical"}
+{"text": "Urgent: cancel the recurring subscription charge.", "label": "billing"}
+{"text": "Could someone correct the invoice for me?", "label": "billing"}
+{"text": "I would like to change the delivery time.", "label": "delivery"}
+{"text": "My request is to reschedule the courier visit.", "label": "delivery"}
+{"text": "I would like to delete my account.", "label": "account"}
+{"text": "I need you to update my username.", "label": "account"}
+{"text": "Please fix the blank dashboard.", "label": "technical"}
+{"text": "I would like to find the package marked delivered.", "label": "delivery"}
+{"text": "Could someone unlock my account for me?", "label": "account"}
+{"text": "Urgent: resolve the software installation error.", "label": "technical"}
+{"text": "Can you repair the failing file upload?", "label": "technical"}
+{"text": "My request is to recover access to my profile.", "label": "account"}
+{"text": "My request is to restore my suspended login.", "label": "account"}
+{"text": "Urgent: fix the broken search function.", "label": "technical"}
+{"text": "Can you fix the blank dashboard?", "label": "technical"}
+{"text": "Can you remove an old phone number from my profile?", "label": "account"}
+{"text": "Urgent: remove an old phone number from my profile.", "label": "account"}
+{"text": "I would like to fix the broken search function.", "label": "technical"}
+{"text": "Could someone find the package marked delivered for me?", "label": "delivery"}
+{"text": "I would like to reschedule the courier visit.", "label": "delivery"}
+{"text": "Support, please apply my missing discount today.", "label": "billing"}
+{"text": "Could someone cancel the recurring subscription charge for me?", "label": "billing"}
+{"text": "My request is to enable two factor authentication.", "label": "account"}
+{"text": "Could someone fix the app crash for me?", "label": "technical"}
+{"text": "Could someone check the estimated arrival date for me?", "label": "delivery"}
+{"text": "Urgent: delete my account.", "label": "account"}
+{"text": "Urgent: fix the app crash.", "label": "technical"}
+{"text": "Could someone resolve the software installation error for me?", "label": "technical"}
+{"text": "Please repair the connection timeout.", "label": "technical"}
+{"text": "I need you to explain why the parcel has not arrived.", "label": "delivery"}
+{"text": "Can you restore my suspended login?", "label": "account"}
+{"text": "I would like to fix the tax on my bill.", "label": "billing"}
+{"text": "Could someone contact the courier about my shipment for me?", "label": "delivery"}
+{"text": "Could someone apply my missing discount for me?", "label": "billing"}
+{"text": "I would like to change my login email.", "label": "account"}
+{"text": "Please reset my password.", "label": "account"}
+{"text": "I would like to repair the failing file upload.", "label": "technical"}
+{"text": "Please refund my payment.", "label": "billing"}
+{"text": "I need you to fix the blank dashboard.", "label": "technical"}
+{"text": "I need you to check why my card was charged twice.", "label": "billing"}
+{"text": "I would like to refund my payment.", "label": "billing"}
+{"text": "I would like to stop the app from closing unexpectedly.", "label": "technical"}
+{"text": "Could someone stop the app from closing unexpectedly for me?", "label": "technical"}
+{"text": "Urgent: fix the blank dashboard.", "label": "technical"}
+{"text": "Support, please track the delayed shipment today.", "label": "delivery"}
+{"text": "Urgent: repair the frozen screen.", "label": "technical"}
+{"text": "Please check why my card was charged twice.", "label": "billing"}
+{"text": "I would like to track the delayed shipment.", "label": "delivery"}
+{"text": "Can you explain why the parcel has not arrived?", "label": "delivery"}
+{"text": "Support, please fix the app crash today.", "label": "technical"}
+{"text": "Could someone fix the video playback bug for me?", "label": "technical"}
+{"text": "My request is to apply my missing discount.", "label": "billing"}
+{"text": "Can you change my login email?", "label": "account"}
+{"text": "I would like to enable two factor authentication.", "label": "account"}
+{"text": "Can you return the money for my cancelled order?", "label": "billing"}
+{"text": "I would like to check why my card was charged twice.", "label": "billing"}
+{"text": "Could someone track the delayed shipment for me?", "label": "delivery"}
+{"text": "Urgent: update the shipping address.", "label": "delivery"}
+{"text": "Support, please return the money for my cancelled order today.", "label": "billing"}
+{"text": "I need you to fix the app crash.", "label": "technical"}
+{"text": "Support, please help me sign in today.", "label": "account"}
+{"text": "I need you to explain the extra fee.", "label": "billing"}
+{"text": "My request is to fix the app crash.", "label": "technical"}
+{"text": "Support, please arrange redelivery of my package today.", "label": "delivery"}
+{"text": "Urgent: fix the video playback bug.", "label": "technical"}
+{"text": "Support, please resolve the server error today.", "label": "technical"}
+{"text": "Please remove an old phone number from my profile.", "label": "account"}
+{"text": "Support, please recover access to my profile today.", "label": "account"}
+{"text": "My request is to resolve the server error.", "label": "technical"}
+{"text": "My request is to fix the broken search function.", "label": "technical"}
+{"text": "Support, please reset my password today.", "label": "account"}
+{"text": "I need you to fix the broken search function.", "label": "technical"}
+{"text": "Please fix the video playback bug.", "label": "technical"}
+{"text": "I need you to arrange redelivery of my package.", "label": "delivery"}
+{"text": "Could someone explain why the parcel has not arrived for me?", "label": "delivery"}
+{"text": "Support, please fix the tax on my bill today.", "label": "billing"}
+{"text": "Please contact the courier about my shipment.", "label": "delivery"}
+{"text": "My request is to find the package marked delivered.", "label": "delivery"}
+{"text": "Could someone restore my suspended login for me?", "label": "account"}
+{"text": "Could someone enable two factor authentication for me?", "label": "account"}
+{"text": "Urgent: explain the extra fee.", "label": "billing"}
+{"text": "Support, please cancel the recurring subscription charge today.", "label": "billing"}
+{"text": "I need you to change my login email.", "label": "account"}
+{"text": "Can you fix the broken search function?", "label": "technical"}
+{"text": "I would like to restore my suspended login.", "label": "account"}
+{"text": "Please return the money for my cancelled order.", "label": "billing"}
+{"text": "Can you stop the app from closing unexpectedly?", "label": "technical"}
+{"text": "Urgent: check why my card was charged twice.", "label": "billing"}
+{"text": "I need you to find the package marked delivered.", "label": "delivery"}
+{"text": "Support, please fix the video playback bug today.", "label": "technical"}
+{"text": "I would like to explain the extra fee.", "label": "billing"}
+{"text": "Urgent: update my username.", "label": "account"}
+{"text": "Please resolve the server error.", "label": "technical"}
+{"text": "Urgent: resolve the server error.", "label": "technical"}
+{"text": "Can you fix the tax on my bill?", "label": "billing"}
+{"text": "I need you to stop the app from closing unexpectedly.", "label": "technical"}
+{"text": "I need you to contact the courier about my shipment.", "label": "delivery"}
+{"text": "Can you change the delivery time?", "label": "delivery"}
+{"text": "Could someone repair the frozen screen for me?", "label": "technical"}
+{"text": "I would like to recover access to my profile.", "label": "account"}
+{"text": "Urgent: change the payment method.", "label": "billing"}
+{"text": "Urgent: arrange redelivery of my package.", "label": "delivery"}
+{"text": "I would like to repair the frozen screen.", "label": "technical"}
+{"text": "My request is to contact the courier about my shipment.", "label": "delivery"}
+{"text": "Can you reset my password?", "label": "account"}
+{"text": "Support, please reverse the duplicate charge today.", "label": "billing"}
+{"text": "I would like to remove an old phone number from my profile.", "label": "account"}
+{"text": "My request is to repair the connection timeout.", "label": "technical"}
+{"text": "Please enable two factor authentication.", "label": "account"}
+{"text": "I would like to fix the blank dashboard.", "label": "technical"}
+{"text": "Please change the delivery time.", "label": "delivery"}
+{"text": "My request is to change my login email.", "label": "account"}
+{"text": "Urgent: explain why the parcel has not arrived.", "label": "delivery"}
+{"text": "My request is to refund my payment.", "label": "billing"}
+{"text": "I need you to track the delayed shipment.", "label": "delivery"}
+{"text": "Urgent: enable two factor authentication.", "label": "account"}
+{"text": "Urgent: recover access to my profile.", "label": "account"}
+{"text": "Urgent: return the money for my cancelled order.", "label": "billing"}
+{"text": "Urgent: refund my payment.", "label": "billing"}
+{"text": "Please explain the extra fee.", "label": "billing"}
+{"text": "Please resolve the software installation error.", "label": "technical"}
+{"text": "I would like to check the estimated arrival date.", "label": "delivery"}
+{"text": "Could someone return the money for my cancelled order for me?", "label": "billing"}
+{"text": "Urgent: find the package marked delivered.", "label": "delivery"}
+{"text": "Could someone fix the tax on my bill for me?", "label": "billing"}
+{"text": "Urgent: apply my missing discount.", "label": "billing"}
+{"text": "I need you to enable two factor authentication.", "label": "account"}
+{"text": "My request is to delete my account.", "label": "account"}
+{"text": "Could someone remove an old phone number from my profile for me?", "label": "account"}
+{"text": "Could someone refund my payment for me?", "label": "billing"}
+{"text": "Can you check why my card was charged twice?", "label": "billing"}

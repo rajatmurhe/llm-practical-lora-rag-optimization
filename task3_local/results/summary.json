@@ -1,0 +1,68 @@
+{
+  "Q4_K_M": {
+    "model": "hf.co/bartowski/SmolLM2-135M-Instruct-GGUF:Q4_K_M",
+    "quantization": "Q4_K_M",
+    "options": {
+      "temperature": 0,
+      "seed": 42,
+      "num_ctx": 2048,
+      "num_predict": 96,
+      "num_thread": 4,
+      "num_gpu": 99
+    },
+    "repetitions": 3,
+    "tokens_per_second": 201.16318763590323,
+    "per_request_tps_median": 202.44595786966443,
+    "runner_peak_rss_bytes": 238239744,
+    "model_details": {
+      "parent_model": "SmolLM2-135M-Instruct-Q4_K_M.gguf",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "134.52M",
+      "quantization_level": "Q4_K_M",
+      "runner": "llamacpp"
+    },
+    "quality_passes_first_repeat": 1,
+    "ollama_version": {
+      "version": "0.40.6"
+    },
+    "platform": "macOS-27.2-arm64-arm-64bit",
+    "measurement": "decode tokens/sec excludes prefill and load; 50ms polling sum of Ollama runner RSS; size_vram from /api/ps is unified-memory allocation on Apple Silicon, not dedicated VRAM"
+  },
+  "Q8_0": {
+    "model": "hf.co/bartowski/SmolLM2-135M-Instruct-GGUF:Q8_0",
+    "quantization": "Q8_0",
+    "options": {
+      "temperature": 0,
+      "seed": 42,
+      "num_ctx": 2048,
+      "num_predict": 96,
+      "num_thread": 4,
+      "num_gpu": 99
+    },
+    "repetitions": 3,
+    "tokens_per_second": 186.46362178960828,
+    "per_request_tps_median": 194.9991271348576,
+    "runner_peak_rss_bytes": 301416448,
+    "model_details": {
+      "parent_model": "SmolLM2-135M-Instruct-Q8_0.gguf",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "134.52M",
+      "quantization_level": "Q8_0",
+      "runner": "llamacpp"
+    },
+    "quality_passes_first_repeat": 1,
+    "ollama_version": {
+      "version": "0.40.6"
+    },
+    "platform": "macOS-27.2-arm64-arm-64bit",
+    "measurement": "decode tokens/sec excludes prefill and load; 50ms polling sum of Ollama runner RSS; size_vram from /api/ps is unified-memory allocation on Apple Silicon, not dedicated VRAM"
+  }
+}

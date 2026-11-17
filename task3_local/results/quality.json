@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "task": "Capital: Paris",
+    "passes": "pass / pass",
+    "observation": "Both name Paris but add prose; capital rubric permits extra text.",
+    "outputs": {
+      "Q4_K_M": "The capital of France is Paris.",
+      "Q8_0": "The capital of France is Paris."
+    }
+  },
+  {
+    "id": 2,
+    "task": "17 + 25: 42",
+    "passes": "fail / fail",
+    "observation": "Q4 says 32; Q8 gets 42 but fails the number-only rule.",
+    "outputs": {
+      "Q4_K_M": "To solve this problem, we need to isolate the variable \"x\" and find its value. We can do this by adding 25 to both sides of the equation, which gives us 17 + 25 = 32.\n\nNow, we can subtract 32 from both sides of the equation, which gives us 17 = 32 - 32. This simplifies to 17 = 14.\n\nSo",
+      "Q8_0": "17 + 25 = 42"
+    }
+  },
+  {
+    "id": 3,
+    "task": "JSON: Ada, age 36",
+    "passes": "fail / fail",
+    "observation": "Both generate Python instead of the requested JSON object.",
+    "outputs": {
+      "Q4_K_M": "Here's a Python function that returns a valid JSON object with the given name and age:\n\n```python\nimport json\n\ndef get_valid_json(name, age):\n    try:\n        return json.loads(json.dumps(name, indent=4))\n    except json.JSONDecodeError:\n        return None\n```\n\nThis function uses the `json.dumps()` method to convert the input string into a JSON string. It then attempts",
+      "Q8_0": "Here's a Python function that uses a recursive approach to solve this problem:\n\n```python\ndef get_valid_age_and_name(age, name):\n    if age < 0:\n        return \"Invalid age\"\n    elif age == 0:\n        return \"Invalid name\"\n    elif age > 0 and age < 18:\n        return f\"{name} is {age} years old\"\n    else:\n        return f\"{name}"
+    }
+  },
+  {
+    "id": 4,
+    "task": "Reverse planet: tenalp",
+    "passes": "fail / fail",
+    "observation": "Neither reverses the letters; Q4 degenerates into repetition.",
+    "outputs": {
+      "Q4_K_M": "\"P-r-a-n-a-t-i-n-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s",
+      "Q8_0": "The words in the sentence are: planet, and the word reversed."
+    }
+  },
+  {
+    "id": 5,
+    "task": "Extract email address",
+    "passes": "fail / fail",
+    "observation": "Q4 writes an email; Q8 refuses to extract the supplied address.",
+    "outputs": {
+      "Q4_K_M": "Hi Mira,\n\nI hope you're doing well! I wanted to reach out because I recently received an email from you. It seems like you're interested in learning more about the latest advancements in our field. I'm happy to share some insights and provide some advice.\n\nI've been working on a new project that I think you might find interesting. It involves using machine learning techniques to analyze data from a large dataset, and I'm excited to share my findings with",
+      "Q8_0": "I'm sorry for the misunderstanding, but as an AI, I don't have the ability to access or access your email. I'm here to assist you with any questions or issues you may have. If you have any questions or need help with something else, feel free to ask."
+    }
+  },
+  {
+    "id": 6,
+    "task": "Sentiment: positive",
+    "passes": "fail / fail",
+    "observation": "Both identify positive sentiment but fail the one-word rule.",
+    "outputs": {
+      "Q4_K_M": "The sentiment of the text is positive.",
+      "Q8_0": "The sentiment of the text is positive."
+    }
+  },
+  {
+    "id": 7,
+    "task": "Translate cat: chat",
+    "passes": "fail / fail",
+    "observation": "Both fabricate French words and explanations.",
+    "outputs": {
+      "Q4_K_M": "Cette cat\u00e9ph\u00e9ration est une cat\u00e9gorie.\n\nThis translation is correct and grammatically correct. The word \"cat\u00e9ph\u00e9ration\" is translated into French as \"cat\u00e9gorie\", which is the correct spelling. The word \"cat\u00e9ph\u00e9ration\" is a noun phrase that means \"a classification\", and it is used to describe a group of things that are similar in some way. The word \"cat\u00e9gorie\" is a noun phrase",
+      "Q8_0": "Cette cat est une petite ferbe.\n\nTranslation: This cat is a small kitten.\n\nIn this example, the word \"cat\" is translated into the French word \"petite ferbe\" (small kitten). The French word is a more concise and idiomatic way to express the idea of a small, domesticated animal."
+    }
+  },
+  {
+    "id": 8,
+    "task": "Repeat blue three times",
+    "passes": "fail / fail",
+    "observation": "Both give unrelated sentence rewrites instead of three blues.",
+    "outputs": {
+      "Q4_K_M": "Here's the corrected sentence:\n\n\"I am writing a letter to you, and I want to express my gratitude to you for your kindness and generosity.\"\n\nI added the word \"I\" to the beginning of the sentence, which is the correct way to start a sentence. I also added the word \"for\" to the end of the sentence, which is the correct way to end a sentence.\n\nI also added the word \"congratulations\" to the",
+      "Q8_0": "Here's the corrected sentence:\n\n\"Blue is a color that is often associated with happiness and is a very popular color.\"\n\nI added the word \"is\" to the beginning of the sentence to make it clear that blue is a color, and then added the word \"very popular\" to the end to make it clear that blue is a popular color."
+    }
+  },
+  {
+    "id": 9,
+    "task": "Red Planet: Mars",
+    "passes": "fail / fail",
+    "observation": "Q4 is tautological; Q8 names Mars but fails the name-only rule.",
+    "outputs": {
+      "Q4_K_M": "The Red Planet is known as the Red Planet.",
+      "Q8_0": "The Red Planet is known as Mars."
+    }
+  },
+  {
+    "id": 10,
+    "task": "Summarize storm and delays",
+    "passes": "fail / fail",
+    "observation": "Both retain storm/bridge/rerouting but omit commuters being late.",
+    "outputs": {
+      "Q4_K_M": "The storm closed the bridge, and the bus route was longer.",
+      "Q8_0": "The storm closed the bridge, and the buses used a longer route."
+    }
+  }
+]
